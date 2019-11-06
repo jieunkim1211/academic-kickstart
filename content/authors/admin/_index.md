@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:kimjieun@berkeley.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jieunkim1211
@@ -67,4 +67,6 @@ social:
 #- Visitors
 ---
 
-I am a PhD student in the Department of Political Science at the University of California, Berkeley. My research interests include ...
+Welcome! I am a PhD student in the Department of Political Science at the University of California, Berkeley. My research interests include ...
+
+You can reach me at kimjieun@berkeley.edu.
