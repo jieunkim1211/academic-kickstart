@@ -29,7 +29,6 @@ education:
   courses:
   - course: PhD Candidate in Political Science
     institution: University of California, Berkeley
-    year: 2020 (exp)
   - course: MA in Political Science
     institution: University of California, Berkeley
     year: 2016
