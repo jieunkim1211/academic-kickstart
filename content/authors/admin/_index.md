@@ -67,6 +67,6 @@ social:
 #- Visitors
 ---
 
-Welcome! I am a PhD student in the Department of Political Science at the University of California, Berkeley. My research interests include ...
+Welcome! I am a PhD student in the Department of Political Science at the University of California, Berkeley. 
 
 You can reach me at kimjieun@berkeley.edu.
