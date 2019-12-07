@@ -69,4 +69,6 @@ social:
 
 Welcome! I am a PhD student in the Department of Political Science at the University of California, Berkeley. I study local government accountability and transparency with a focus on Chinese politics.
 
+My research has been supported by the Center for Chinese Studies (CCS), Center for the Study of Law and Society, and Institute for International Studies (IIS) at UC Berkeley, and the Korea Foundation for Advanced Studies (KFAS). 
+
 You can reach me at kimjieun@berkeley.edu.
