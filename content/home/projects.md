@@ -92,8 +92,7 @@ What explains the variation in local government transparency in authoritarian re
 
 
 <details>
-  <summary>**Chapter 3: Centralizing Jurisdiction of Administrative Litigation and Judicial Independence in China
-**</summary>
+  <summary>**Chapter 3: Centralizing Jurisdiction of Administrative Litigation and Judicial Independence in China**</summary>
 
 (in progress)
 
