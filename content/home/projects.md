@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Dissertation"
-subtitle = "Local Government Accountability in China: The Center, Local Networks, and the Courts"
+subtitle = ""
 
 
 [content]
@@ -67,9 +67,10 @@ subtitle = "Local Government Accountability in China: The Center, Local Networks
  css_class = ""
 +++
 
-**Committee:** Sean Gailmard (Co-Chair), Kevin O'Brien (Co-Chair), Peter Lorentzen & Rachel Stern
+**Title:** *Local Government Accountability in China: The Center, Local Networks, and the Courts* <br/>
+**Committee:** Sean Gailmard (Co-Chair), Kevin O'Brien (Co-Chair), Peter Lorentzen & Rachel Stern <br/>
 
-In my three-paper dissertation, I examine how various political actors strengthen or weaken local government accountability in China. The first chapter focuses on the central government’s role in crafting policy guidelines that shape local governments’ incentives for implementation. I bring attention to the central leaders’ frequent use of ambiguous policy guidelines during decentralized policy experimentation and explain why. The second chapter explores bottom-up forces in China, devoting attention to one substantive policy area, the Open Government Information (OGI) initiative. I examine how city leaders’ embeddedness in local networks, assessed based on their career trajectory, affects their implementation of government transparency. The third chapter turns to horizontal dynamics between local governments and the courts. I attempt to evaluate the efficacy of a jurisdiction reform involving the courts, in particular, centralizing jurisdiction of administrative litigation cases, and how it affects the OGI-related litigation.
+My dissertation examines how various political actors strengthen or weaken local government accountability in China. Chapter 1 focuses on the central government’s role in crafting policy guidelines that shape local governments’ incentives for implementation. I bring attention to the central leaders’ frequent use of ambiguous policy guidelines during decentralized policy experimentation and explain why. Chapter 2 explores bottom-up forces in China, devoting attention to one substantive policy area, the Open Government Information (OGI) initiative. I examine how city leaders’ embeddedness in local networks, assessed based on their career trajectory, affects their implementation of government transparency. Chapter 3 turns to horizontal dynamics between local governments and the courts. I evaluate the efficacy of the courts' jurisdiction reform, in particular, centralizing jurisdiction of administrative litigation cases, in the OGI-related litigation.
 
 
 <details>
