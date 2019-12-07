@@ -76,6 +76,7 @@ The Galanter thesis suggests that “repeat players” with money and resources 
 * To be presented at the 2020 LSA Annual Meeting
 </details>
 
+<br/>
 
 <details>
   <summary> **Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes** <br/>
