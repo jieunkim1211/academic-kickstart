@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+\usepackage{xcolor}
+
 <details>
   <summary> \textcolor{navy}{**Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation**} <br/>
 Jieun Kim, Rachel Stern and Benjamin Liebman <br/>
