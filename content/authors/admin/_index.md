@@ -72,4 +72,5 @@ Welcome! I am a PhD student in the Department of Political Science at the Univer
 
 My research has been supported by the Center for Chinese Studies (CCS), Center for the Study of Law and Society, and Institute for International Studies (IIS) at UC Berkeley, and the Korea Foundation for Advanced Studies (KFAS). 
 
+My CV can be found [here](files/cv.pdf).
 You can reach me at kimjieun@berkeley.edu.
