@@ -67,15 +67,15 @@ subtitle = ""
 +++
 
 **PS 3: Introduction to Empirical Analysis and Quantitative Methods** <br/>
-\vspace{12pt} Undergraduate-level course, UC Berkeley, Fall 2017 <br/>
-\vspace{12pt} Graduate Student Instructor for Professor Jason Wittenberg <br/>
-\vspace{12pt} [Lecture Syllabus](https://www.dropbox.com/s/k7pqq97gewafui6/Wittenberg_3Fall2017.pdf?dl=0), [Section Syllabus](https://www.dropbox.com/s/afryg9v3z7tmgc0/PS3_Kim_SectionSyllabus.docx?dl=0)<br/> 
-\vspace{12pt} [Teaching materials](https://www.dropbox.com/sh/i7x71guyvi9p2l2/AADjDEdw33vhow8ezTS-MD4qa?dl=0)
+  Undergraduate-level course, UC Berkeley, Fall 2017 <br/>
+  Graduate Student Instructor for Professor Jason Wittenberg <br/>
+  [Lecture Syllabus](https://www.dropbox.com/s/k7pqq97gewafui6/Wittenberg_3Fall2017.pdf?dl=0), [Section Syllabus](https://www.dropbox.com/s/afryg9v3z7tmgc0/PS3_Kim_SectionSyllabus.docx?dl=0)<br/> 
+  [Teaching materials](https://www.dropbox.com/sh/i7x71guyvi9p2l2/AADjDEdw33vhow8ezTS-MD4qa?dl=0)
 
 <br/>
 
 **PS 232A: Formal Models of Political Science** <br/>
-\vspace{12pt} Graduate-level course, UC Berkeley, Spring 2020 <br/>
-\vspace{12pt} Graduate Student Instructor for Professor Andrew Little 
+  Graduate-level course, UC Berkeley, Spring 2020 <br/>
+  Graduate Student Instructor for Professor Andrew Little 
 
 
