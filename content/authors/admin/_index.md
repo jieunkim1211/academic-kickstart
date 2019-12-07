@@ -67,6 +67,6 @@ social:
 #- Visitors
 ---
 
-Welcome! I am a PhD student in the Department of Political Science at the University of California, Berkeley. 
+Welcome! I am a PhD student in the Department of Political Science at the University of California, Berkeley. I study local government accountability and transparency with a focus on Chinese politics.
 
 You can reach me at kimjieun@berkeley.edu.
