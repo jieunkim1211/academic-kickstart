@@ -85,5 +85,5 @@ Dogus Aktan and Jieun Kim <br/>
 
 Recent scholarship suggests that protests in authoritarian regimes do not necessarily reflect regime weaknesses, because they provide central leaders with information about misconduct by local officials. However, such “alliances” between protesters and central leaders do not always appear. To explain when and how protesters successfully sound “fire alarms” that are heeded by the Center, we develop a formal model and argue that protesters do so only when their interests are sufficiently aligned with the leaders' interests. We illustrate the model with the case of China, revisiting the “rightful resistance” thesis in the literature. Implications of this model are broadly applicable to any situation that involves the principal-agent relationship and a third party. 
 
-* To be presented at the 2020 SPSA Meeting
+* To be presented at the 2020 SPSA Annual Meeting
 </details>
