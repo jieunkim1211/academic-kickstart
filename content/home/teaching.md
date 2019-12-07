@@ -74,7 +74,6 @@ subtitle = ""
 * [Teaching materials](https://www.dropbox.com/sh/i7x71guyvi9p2l2/AADjDEdw33vhow8ezTS-MD4qa?dl=0)
 
 <br/>
-<br/>
 
 **PS 232A: Formal Models of Political Science** 
 
