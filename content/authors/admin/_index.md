@@ -24,6 +24,7 @@ interests:
 - Chinese Bureaucracy
 - Formal Modeling
 - Government Accountability
+- Law and Politics
 
 education:
   courses:
