@@ -68,7 +68,7 @@ subtitle = ""
 
 
 <details>
-  <summary> <p style="color:red"> **Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation** </p> <br/>
+  <summary> <p style="color:blue"> **Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation** </p> <br/>
 Jieun Kim, Rachel Stern and Benjamin Liebman <br/>
 </summary>
 
@@ -80,7 +80,7 @@ The Galanter thesis suggests that “repeat players” with money and resources 
 <br/>
 
 <details>
-  <summary> <p style="color:navy"> Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes </p> <br/>
+  <summary> <p style="color:blue"> **Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes </p> <br/>
 Dogus Aktan and Jieun Kim <br/>
 </summary>
 
