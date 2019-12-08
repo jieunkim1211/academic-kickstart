@@ -68,7 +68,7 @@ subtitle = ""
 
 
 <details>
-  <summary> <p style="color:navy"> **Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation** </p> <br/>
+  <summary> <p style="color:red"> **Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation** </p> <br/>
 Jieun Kim, Rachel Stern and Benjamin Liebman <br/>
 </summary>
 
