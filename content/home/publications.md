@@ -80,7 +80,7 @@ The Galanter thesis suggests that “repeat players” with money and resources 
 <br/>
 
 <details>
-  <summary> <p style="color:navy"> **Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes** </p> <br/>
+  <summary> <p style="color:navy"> Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes </p> <br/>
 Dogus Aktan and Jieun Kim <br/>
 </summary>
 
