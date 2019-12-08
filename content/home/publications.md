@@ -68,8 +68,7 @@ subtitle = ""
 
 
 <details>
-<p style="color:blue"> <summary> **Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation** </p> <br/>
-Jieun Kim, Rachel Stern and Benjamin Liebman <br/>
+<summary> Jieun Kim, Rachel Stern and Benjamin Liebman. <p style="color:blue"> **Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation** </p> <br/>
 </summary>
 
 The Galanter thesis suggests that “repeat players” with money and resources fare better in litigation, and existing work suggests this is true in China (He and Su 2013). But do repeat players always have an advantage? We revisit this thesis in the context of Open Government Information (OGI) requests in China. Drawing on an original dataset of over 62,000 OGI litigation cases from 2008 to 2018, as well as interviews with Chinese lawyers, we find the reverse is true: repeat players fare worse than one shotters. What explains this counter-intuitive finding? We offer political and legal explanations. First, repeat players are not necessarily “the haves,” as OGI requests have increasingly evolved into a channel for aggrieved citizens to voice their concerns to the government. Second, repeat players tend to request more vague information, which judges often do not consider as government information. 
@@ -80,8 +79,7 @@ The Galanter thesis suggests that “repeat players” with money and resources 
 <br/>
 
 <details>
-<p style="color:blue"> <summary> **Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes </p> <br/>
-Dogus Aktan and Jieun Kim <br/>
+<summary> Dogus Aktan and Jieun Kim. <p style="color:blue"> **Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes </p> <br/>
 </summary>
 
 Recent scholarship suggests that protests in authoritarian regimes do not necessarily reflect regime weaknesses, because they provide central leaders with information about misconduct by local officials. However, such alliances between protesters and central leaders do not always appear. To explain when and how protesters successfully sound “fire alarms” that are heeded by the Center, we develop a formal model and argue that protesters do so only when their interests are sufficiently aligned with the leaders' interests. We illustrate the model with the case of China, revisiting the “rightful resistance” thesis in the literature. Implications of this model are broadly applicable to any situation that involves the principal-agent relationship and a third party. 
