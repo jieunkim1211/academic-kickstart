@@ -74,7 +74,7 @@ My dissertation examines how various political actors strengthen or weaken local
 
 
 <details>
-  <summary>  <p style="color:blue"> **Chapter 1. Do at Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </p> </summary>
+<p style="color:blue"> <summary> **Chapter 1. Do at Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </p> </summary>
 
 In the process of decentralized policy experimentation, the Chinese leaders have often provided ambiguous policy guidelines to their local agents. While ambiguity can give local agents flexibility in policy implementation, it can also induce their self-censorship behavior by making them unsure about the boundaries of discretion. Incorporating both perspectives, this article proposes a formal model that analyzes a situation in which ambiguity permits more policy choices for certain types of local agents while constraining options for others. The model shows that ambiguity induces only the competent type of local agents---or those who are confident in producing good outcomes---to initiate a "gray-area policy" at their own risk, while deterring the incompetent type from doing so. I illustrate the model with the case of the state-owned enterprise reform in China. The argument is broadly applicable to interactions between any upper- and lower-level actors in bureaucratic hierarchy. 
 
@@ -84,7 +84,7 @@ In the process of decentralized policy experimentation, the Chinese leaders have
 
 
 <details>
-  <summary> <p style="color:blue">  **Chapter 2. Local Embeddedness and City Leaders’ Incentives for Government Transparency in China** </p> </summary>
+<p style="color:blue"> <summary> **Chapter 2. Local Embeddedness and City Leaders’ Incentives for Government Transparency in China** </p> </summary>
 
 What explains the variation in local government transparency in authoritarian regimes? I examine how city leaders’ embeddedness in local networks, assessed based on their career trajectory, affects their implementation of government transparency. I find that embedded leaders (“insiders”) perform worse on proactively disclosing government information but perform better on responding to citizens’ information disclosure requests, compared to non-embedded leaders (“outsiders”). I argue that while embedded leaders might not bother proactively to disclose information that would embarrass local influentials, they still endeavor to fulfill disclosure requirements upon requests, in part owing to their affinity to the local population. I rely on an original dataset of prefectural-level cities’ annual OGI reports between 2008 and 2016 as well as interviews with government officials and policy experts in China. 
 
