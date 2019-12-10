@@ -23,7 +23,7 @@ bio: I am a PhD student in the Department of Political Science at the University
 interests:
 - Chinese Bureaucracy
 - Formal Modeling
-- Government Accountability
+- Accountability and Transparency
 - Law and Politics
 
 education:
