@@ -77,5 +77,6 @@ subtitle = ""
 **PS 232A: Formal Models of Political Science** <br/>
 &nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2020 <br/>
 &nbsp; &nbsp; Graduate Student Instructor for Professor Andrew Little 
-
+&nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/kgm0431z45q26vi/GT1syllabusS20.pdf?dl=0)
+&nbsp; &nbsp; [Teaching materials](https://www.dropbox.com/sh/tgqi5yjcj2p29aj/AAANXWgVYwzbo2GiHvANQPc9a?dl=0)
 
