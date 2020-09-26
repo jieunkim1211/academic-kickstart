@@ -68,15 +68,25 @@ subtitle = ""
 
 
 <details>
-<summary> <span style="color:DarkOrange"> **Revisiting the Galanter Thesis: Why the “Repeat Players” Fare Worse in China’s Open Government Information Litigation** </span> <br/>
+<summary> <span style="color:DarkOrange"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
 Jieun Kim, Rachel Stern and Benjamin Liebman <br/>
 </summary>
 
-The Galanter thesis suggests that “repeat players” with money and resources fare better in litigation, and existing work suggests this is true in China (He and Su 2013). But do repeat players always have an advantage? We revisit this thesis in the context of Open Government Information (OGI) requests in China. Drawing on an original dataset of over 62,000 OGI litigation cases from 2008 to 2018, as well as interviews with Chinese lawyers, we find the reverse is true: repeat players fare worse than one shotters. What explains this counter-intuitive finding? We offer political and legal explanations. First, repeat players are not necessarily “the haves,” as OGI requests have increasingly evolved into a channel for aggrieved citizens to voice their concerns to the government. Second, repeat players tend to request more vague information, which judges often do not consider as government information. 
+How and when do opportunities for political participation through courts change under authoritarianism? Although China is better known for tight political control than for political expression, the 2008 Open Government Information (OGI) regulation ushered in a surge of political-legal activism. We draw on an original dataset of 57,095 OGI lawsuits, supplemented by interview data and government documents, to show how a feedback loop between judges and court users shaped possibilities for political activism and complaint between 2008 and 2019. In contrast to the conventional explanation that authoritarian leaders crack down on legal action when they feel politically threatened, we find that courts minted, defined and popularized new legal labels to cut off access to justice for the minority of super-active litigants whose lawsuits had come to dominate the OGI docket. This study underscores the power of procedural rules and frontline judges in shaping possibilities for political participation under authoritarianism.
 
-* To be presented at the 2020 LSA Annual Meeting
 </details>
 
+<br/>
+
+<details>
+<summary> <span style="color:DarkOrange"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy
+** </span> <br/>
+Jieun Kim and Kevin O'Brien <br/>
+</summary>
+
+Using the case of China's Open Government Information (OGI) policy, we reconcile two competing images of Chinese local governance: the positive image of decentralized policy experimentation that has contributed to adaptability and the resilience of the regime, and the negative image of policy misimplementation, including "uneven implementation” across regions and “selective implementation” of some measures but not others. In doing so, we recount the history of the OGI policy, tracing two decades of experimentation from Premier Zhao Ziyang’s first mention of government transparency in 1988 to the passage of national legislation in 2008 and over a decade of nationwide implementation since then. While its history, at least at first glance, conforms to the familiar storyline of nimble experimentation and problematic implementation, we demonstrate that the pattern of central-local interactions in the realm of OGI is most clearly related to the nature of OGI as a top-down initiative designed to monitor local officials and has little to do with reliably “successful” or “unsuccessful” phases in the Chinese policy process. 
+
+</details>
 <br/>
 
 <details>
@@ -86,5 +96,5 @@ Dogus Aktan and Jieun Kim <br/>
 
 Recent scholarship suggests that protests in authoritarian regimes do not necessarily reflect regime weaknesses, because they provide central leaders with information about misconduct by local officials. However, such alliances between protesters and central leaders do not always appear. To explain when and how protesters successfully sound “fire alarms” that are heeded by the Center, we develop a formal model and argue that protesters do so only when their interests are sufficiently aligned with the leaders' interests. We illustrate the model with the case of China, revisiting the “rightful resistance” thesis in the literature. Implications of this model are broadly applicable to any situation that involves the principal-agent relationship and a third party. 
 
-* To be presented at the 2020 SPSA Annual Meeting
+* Presented at the 2020 SPSA Annual Meeting
 </details>
