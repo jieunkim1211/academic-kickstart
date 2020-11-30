@@ -68,7 +68,7 @@ subtitle = ""
 
 
 <details>
-<summary> <span style="color:DarkOrange"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
+<summary> <span style="color:DarkOrange"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath. Under Review.** </span> <br/>
 Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu <br/>
 </summary>
 
@@ -79,7 +79,7 @@ How and when do opportunities for political participation through courts change 
 <br/>
 
 <details>
-<summary> <span style="color:DarkOrange"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
+<summary> <span style="color:DarkOrange"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy. Under Review.** </span> <br/>
 Jieun Kim and Kevin O'Brien <br/>
 </summary>
 
