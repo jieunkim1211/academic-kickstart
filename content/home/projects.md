@@ -78,7 +78,7 @@ My dissertation examines how various political actors strengthen or weaken local
 
 In the process of decentralized policy experimentation, the Chinese leaders have often provided ambiguous policy guidelines to their local agents. While ambiguity can give local agents flexibility in policy implementation, it can also induce their self-censorship behavior by making them unsure about the boundaries of discretion. Incorporating both perspectives, this article proposes a formal model that analyzes a situation in which ambiguity permits more policy choices for certain types of local agents while constraining options for others. The model shows that ambiguity induces only the competent type of local agents---or those who are confident in producing good outcomes---to initiate a "gray-area policy" at their own risk, while deterring the incompetent type from doing so. I illustrate the model with the case of the state-owned enterprise reform in China. The argument is broadly applicable to interactions between any upper- and lower-level actors in bureaucratic hierarchy. 
 
-* Most recent draft available [here](https://www.dropbox.com/s/twmtfrm1cnaos23/Kim.Jieun_Ambiguity.pdf?dl=0)
+* Most recent draft available [here](https://www.dropbox.com/s/kczapdg66kys0xi/Kim.Jieun_Ambiguity.pdf?dl=0)
 * Paper presented at the [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), the 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html)  
 
 
