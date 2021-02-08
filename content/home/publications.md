@@ -66,6 +66,16 @@ subtitle = ""
  css_class = ""
 +++
 
+<details>
+<summary> <span style="color:DarkOrange"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy. Accepted. *Asian Survey*. ** </span> <br/>
+Jieun Kim and Kevin O'Brien <br/>
+</summary>
+
+Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfold in one area. The history of China’s Open Government Information (OGI) policy shows that experimentation sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And implementation often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that stages in the policy process are not so different when the Center and localities have diverging interests and preferences on both sides do not change. The ups and downs of OGI, and also village elections, can be traced to the goal of monitoring local cadres and the pattern of support and opposition within the state.
+
+
+</details>
+<br/>
 
 <details>
 <summary> <span style="color:DarkOrange"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath (Under Review)** </span> <br/>
@@ -74,16 +84,8 @@ Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu <br/>
 
 How and when do opportunities for political participation through courts change under authoritarianism? Although China is better known for tight political control than for political expression, the 2008 Open Government Information (OGI) regulation ushered in a surge of political-legal activism. We draw on an original dataset of 57,095 OGI lawsuits, supplemented by interview data and government documents, to show how a feedback loop between judges and court users shaped possibilities for political activism and complaint between 2008 and 2019. In contrast to the conventional explanation that authoritarian leaders crack down on legal action when they feel politically threatened, we find that courts minted, defined and popularized new legal labels to cut off access to justice for the minority of super-active litigants whose lawsuits had come to dominate the OGI docket. This study underscores the power of procedural rules and frontline judges in shaping possibilities for political participation under authoritarianism.
 
-</details>
 
-<br/>
 
-<details>
-<summary> <span style="color:DarkOrange"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy (Revise & Resubmit)** </span> <br/>
-Jieun Kim and Kevin O'Brien <br/>
-</summary>
-
-Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfold in one area. The history of China’s Open Government Information (OGI) policy shows that experimentation sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And implementation often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that stages in the policy process are not so different when the Center and localities have diverging interests and preferences on both sides do not change. The ups and downs of OGI, and also village elections, can be traced to the goal of monitoring local cadres and the pattern of support and opposition within the state.
 
 </details>
 <br/>
