@@ -79,7 +79,7 @@ Studies of local governance in China often point to nimble experimentation but p
 <br/>
 
 <details>
-<summary> <span style="color:DarkOrange"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath (Revise and Resubmit, *Comparative Political Studies*)** </span> <br/>
+<summary> <span style="color:#FF6F68"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath (Revise and Resubmit, *Comparative Political Studies*)** </span> <br/>
 Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu <br/>
 </summary>
 
