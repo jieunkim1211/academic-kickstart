@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the Department of Political Science at the University of California, Berkeley.
+bio: I am a PhD Candidate in the Department of Political Science at the University of California, Berkeley.
 
 interests:
 - Chinese Bureaucracy
