@@ -67,7 +67,7 @@ subtitle = ""
 +++
 
 <details>
-<summary> <span style="color:DarkOrange"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy (Forthcoming, *Asian Survey*)** </span> <br/>
+<summary> <span style="color:#E77577"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy (Forthcoming, *Asian Survey*)** </span> <br/>
 Jieun Kim and Kevin O'Brien <br/>
 </summary>
 
@@ -79,7 +79,7 @@ Studies of local governance in China often point to nimble experimentation but p
 <br/>
 
 <details>
-<summary> <span style="color:#FF6F68"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath (Revise and Resubmit, *Comparative Political Studies*)** </span> <br/>
+<summary> <span style="color:#E77577"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath (Revise and Resubmit, *Comparative Political Studies*)** </span> <br/>
 Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu <br/>
 </summary>
 
@@ -90,7 +90,7 @@ How and when do opportunities for political participation through courts change 
 
 
 <details>
-<summary> <span style="color:DarkOrange"> **Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes** </span> <br/>
+<summary> <span style="color:#E77577"> **Resistance or Calling on the Big Brother? A Model of Local Protests in Authoritarian Regimes** </span> <br/>
 Dogus Aktan and Jieun Kim <br/>
 </summary>
 
