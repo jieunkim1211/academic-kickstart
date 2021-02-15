@@ -73,9 +73,36 @@ subtitle = ""
 My dissertation examines how various political actors strengthen or weaken local government accountability in China. The first chapter focuses on the central government’s role in crafting policy guidelines that shape local governments’ incentives for implementation. I bring attention to the central leaders’ frequent use of ambiguous policy guidelines during decentralized policy experimentation and explain why. The second chapter explores bottom-up forces in China, devoting attention to one substantive policy area, the Open Government Information (OGI) initiative. I examine how city leaders’ embeddedness in local networks, assessed based on their career trajectory, affects their implementation of government transparency. The third chapter turns to horizontal dynamics between local governments and the courts. I evaluate the impact of the courts' jurisdiction reform, in particular, centralizing jurisdiction of administrative litigation cases, on local government interference with court decisions.
 
 
+<details>
+<summary> <span style="color:DarkOrange"> **Chapter 1. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines (Job market Paper; Under Review)** </span> </summary>
+
+Counter-intuitive to the lessons of principal-agent models, Chinese leaders have often provided local officials with ambiguous policy guidelines that do not clarify the boundaries of discretion. While ambiguity can give local officials flexibility in policy implementation, it can also instill fear of punishment among possible transgressors and encourage preemptive self-censoring. Incorporating both perspectives, I develop a formal model that analyzes a situation in which ambiguity allows flexibility for certain types of local officials while intimidating others. I argue that central leaders use ambiguity as a screening tool to encourage only the competent type of local officials---or those who have policy expertise for producing good outcomes---to choose a gray-area policy at their own risk, while deterring the incompetent type from doing so. I illustrate the model with the case of state-owned enterprise restructuring in China. The argument is broadly applicable to interactions between any upper- and lower-level actors in bureaucratic hierarchy.
+
+* Most recent draft available [here](https://www.dropbox.com/s/lgir8xfyhbd4cbu/Kim.Ambiguity_01112021.pdf?dl=0)
+* Paper presented at the [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), the 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html)  
+
+</details>
+<br/>
+
+
+<details>
+<summary> <span style="color:DarkOrange"> **Chapter 2. Local Embeddedness and City Leaders’ Incentives for Government Transparency in China** </span> </summary>
+
+What explains the variation in local government transparency in authoritarian regimes? I examine how city leaders’ embeddedness in local networks, assessed based on their career trajectory, affects their implementation of government transparency. I find that embedded leaders (“insiders”) perform worse on proactively disclosing government information but perform better on responding to citizens’ information disclosure requests, compared to non-embedded leaders (“outsiders”). I argue that while embedded leaders might not bother proactively to disclose information that would embarrass local influentials, they still endeavor to fulfill disclosure requirements upon requests, in part owing to their affinity to the local population. I rely on an original dataset of prefectural-level cities’ annual OGI reports between 2008 and 2016 as well as interviews with government officials and policy experts in China. 
+
+* Paper presented at the [2019 Graduate Seminar on China (CUHK)](http://www.usc.cuhk.edu.hk/activities/gsoc-2019?lang=en), the 2019 MPSA Annual meeting
+</details>
+<br/>
 
 
 
+<details>
+<summary> <span style="color:DarkOrange"> **Chapter 3. Centralizing Jurisdiction of Administrative Litigation and Judicial Independence in China** </span> </summary>
+
+In progress.
+
+</details>
+<br/>
 
 
 
