@@ -73,7 +73,7 @@ Jieun Kim and Kevin O'Brien <br/>
 
 Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfolded in one policy area. The history of China’s Open Government Information (OGI) initiative shows that the experimentation stage sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And the implementation stage often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that the experimentation and implementation stages are not so different when officials in Beijing and the localities have diverging interests and the Center is more supportive of a measure than local officials. The ups and downs of OGI, and also village elections, can be traced to the policy goal of monitoring local cadres, the central-local divide, and the pattern of support and opposition within the state.
 
-* Most recent draft available [here](https://www.dropbox.com/s/8e4fhsj1mojuhm2/Kim%20and%20O%27Brien_AS_Final.pdf?dl=0)
+* Draft available [here](https://www.dropbox.com/s/8e4fhsj1mojuhm2/Kim%20and%20O%27Brien_AS_Final.pdf?dl=0)
 
 </details>
 <br/>
