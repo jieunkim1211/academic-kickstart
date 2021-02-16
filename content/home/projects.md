@@ -78,7 +78,7 @@ My dissertation examines how various political actors strengthen or weaken local
 
 Counter-intuitive to the lessons of principal-agent models, Chinese leaders have often provided local officials with ambiguous policy guidelines that do not clarify the boundaries of discretion. While ambiguity can give local officials flexibility in policy implementation, it can also instill fear of punishment among possible transgressors and encourage preemptive self-censoring. Incorporating both perspectives, I develop a formal model that analyzes a situation in which ambiguity allows flexibility for certain types of local officials while intimidating others. I argue that central leaders use ambiguity as a screening tool to encourage only the competent type of local officials---or those who have policy expertise for producing good outcomes---to choose a gray-area policy at their own risk, while deterring the incompetent type from doing so. I illustrate the model with the case of state-owned enterprise restructuring in China. The argument is broadly applicable to interactions between any upper- and lower-level actors in bureaucratic hierarchy.
 
-* Most recent draft available [here](https://www.dropbox.com/s/lgir8xfyhbd4cbu/Kim.Ambiguity_01112021.pdf?dl=0)
+* Most recent draft available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748230)
 * Paper presented at the [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), the 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html)  
 
 </details>
