@@ -99,7 +99,7 @@ What explains the variation in local government transparency in authoritarian re
 <details>
 <summary> <span style="color:#E77577"> **Chapter 3. Centralizing Jurisdiction of Administrative Litigation and Judicial Independence in China** </span> </summary>
 
-In progress.
+To establish independent courts capable of holding local governments accountable, Chinese top leaders have launched a series of court jurisdiction reforms since 2013, including the “centralized jurisdiction of administrative cases” (*jizhong guanxia*). By assigning administrative cases to a few non-local centralized courts, the initiative aims to reduce possible local government interference in administrative litigation. Drawing on the entire corpus of over 400,000 first-instance administrative litigation cases, I examine the impact of reform on citizens’ win rates against governments. My finding suggests that the reform has not increased citizens’ win rate. Using a formal model, I argue that the seemingly stagnant citizen win rate is in large part due to the increased case volume. As the reform has boosted citizens’ willingness to use the court system, citizens may have brought more “marginal” cases with low likelihood of winning. 
 
 </details>
 <br/>
