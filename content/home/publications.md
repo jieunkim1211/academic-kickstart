@@ -67,7 +67,7 @@ subtitle = ""
 +++
 
 <details>
-<summary> <span style="color:#E77577"> **At Your Own Risk: A Model of Delegation with Ambiguous Guidelines (Revise and Resubmit, *Journal of Political Institutions and Political Economy*)** </span> <br/>
+<summary> **At Your Own Risk: A Model of Delegation with Ambiguous Guidelines (Revise and Resubmit, *Journal of Political Institutions and Political Economy*)** </span> <br/>
 Jieun Kim <br/>
 </summary>
 
@@ -80,7 +80,7 @@ Counter-intuitive to the lessons of principal-agent models, Chinese leaders have
 <br/>
 
 <details>
-<summary> <span style="color:#E77577"> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath (Accepted, *Comparative Political Studies*)** </span> <br/>
+<summary> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath (Accepted, *Comparative Political Studies*)** </span> <br/>
 Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu <br/>
 </summary>
 
@@ -92,7 +92,7 @@ How and when do opportunities for political participation through courts change 
 
 
 <details>
-<summary> <span style="color:#E77577"> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy (Forthcoming, *Asian Survey*)** </span> <br/>
+<summary> **Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy (Forthcoming, *Asian Survey*)** </span> <br/>
 Jieun Kim and Kevin O'Brien <br/>
 </summary>
 
@@ -105,7 +105,9 @@ Studies of local governance in China often point to nimble experimentation but p
 
 
 <details>
-<summary> <span style="color:#E77577"> **Local Embeddedness and City Leaders’ Incentives for Government Transparency in China** </span> </summary>
+<summary> **Local Embeddedness and City Leaders’ Incentives for Government Transparency in China** </span> <br/>
+Jieun Kim <br/>
+</summary>
 
 What explains the variation in local government transparency in authoritarian regimes? I examine how city leaders’ embeddedness in local networks, assessed based on their career trajectory, affects their implementation of government transparency. I find that embedded leaders (“insiders”) perform worse on proactively disclosing government information but perform better on responding to citizens’ information disclosure requests, compared to non-embedded leaders (“outsiders”). I argue that while embedded leaders might not bother proactively to disclose information that would embarrass local influentials, they still endeavor to fulfill disclosure requirements upon requests, in part owing to their affinity to the local population. I rely on an original dataset of prefectural-level cities’ annual OGI reports between 2008 and 2016 as well as interviews with government officials and policy experts in China. 
 
