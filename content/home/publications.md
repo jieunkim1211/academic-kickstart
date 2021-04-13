@@ -82,7 +82,7 @@ Counter-intuitive to the lessons of principal-agent models, Chinese leaders have
 
 <details>
 <summary> **Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
-  *Comparative Political Studies*. Accepted. <br/>
+  *Comparative Political Studies*. Accepted (conditional on submitting data and replication files). <br/>
   (with Rachel Stern, Benjamin Liebman and Xiaohan Wu) <br/>
 
 </summary>
