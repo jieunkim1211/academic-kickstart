@@ -70,7 +70,6 @@ subtitle = ""
 &nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2017 <br/>
 &nbsp; &nbsp; Graduate Student Instructor for Professor Jason Wittenberg <br/>
 &nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/k7pqq97gewafui6/Wittenberg_3Fall2017.pdf?dl=0), [Section Syllabus](https://www.dropbox.com/s/afryg9v3z7tmgc0/PS3_Kim_SectionSyllabus.docx?dl=0)<br/> 
-# &nbsp; &nbsp; Teaching materials
 
 <br/>
 
@@ -78,4 +77,4 @@ subtitle = ""
 &nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2020; Spring 2021 <br/>
 &nbsp; &nbsp; Graduate Student Instructor for Professor Andrew Little <br/> 
 &nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/kgm0431z45q26vi/GT1syllabusS20.pdf?dl=0) <br/>
-# &nbsp; &nbsp; Teaching materials
+
