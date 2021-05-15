@@ -28,8 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Political Science
+  - course: PhD in Political Science
     institution: University of California, Berkeley
+    year: 2021
   - course: MA in Political Science
     institution: University of California, Berkeley
     year: 2016
