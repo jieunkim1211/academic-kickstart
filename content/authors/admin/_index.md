@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Berkeley
+- name: Center for the Study of Contemporary China, University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in the Department of Political Science at the University of California, Berkeley.
+bio: I am a Postdoctoral Fellow at the Center for the Study of Contemporary China at University of Pennsylvania.
 
 interests:
 - Chinese Bureaucracy
@@ -69,8 +69,6 @@ social:
 #- Visitors
 ---
 
-Welcome! I am a PhD student in the Department of Political Science at the University of California, Berkeley. I study local government accountability and transparency with a focus on Chinese politics. My dissertation, *Local Government Accountability in China: The Center, Local Networks, and the Courts*, examines how various political actors strengthen or weaken local government accountability in China. 
-
-My research has been supported by the Center for Chinese Studies (CCS), Center for the Study of Law and Society, and Institute for International Studies (IIS) at UC Berkeley, and the Korea Foundation for Advanced Studies (KFAS). 
+Welcome! I am a postdoctoral fellow at the University of Pennsylvania, Center for the Study of Contemporary China and will be an assistant professor at NYU Shanghai beginning in the Fall of 2022. I received my Ph.D. in political science from the University of California, Berkeley. My research focuses on local government accountability and transparency in China. 
 
 Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at kimjieun@berkeley.edu.
