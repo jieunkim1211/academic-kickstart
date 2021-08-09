@@ -68,7 +68,7 @@ subtitle = ""
 
 <details>
 <summary> **Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
-  *Journal of Political Institutions and Political Economy*. Revise and Resubmit.
+  *Journal of Political Institutions and Political Economy*. Forthcoming.
   <br/>
 </summary>
 
