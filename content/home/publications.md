@@ -95,7 +95,7 @@ How and when do opportunities for political participation through courts change 
 
 <details>
 <summary> **Jieun Kim and Kevin O'Brien. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
-*Asian Survey* (2021) 61 (4): 591–614. <br/>
+[*Asian Survey* (2021) 61 (4): 591–614.](https://online.ucpress.edu/as/article-abstract/61/4/591/118261/Understanding-Experimentation-and-ImplementationA?redirectedFrom=fulltext) <br/>
   
 </summary>
 
