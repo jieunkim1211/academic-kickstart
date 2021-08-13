@@ -82,7 +82,7 @@ Contrary to the lessons of principal-agent models, Chinese leaders have often pr
 
 <details>
 <summary> **Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu. Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
-  [*Comparative Political Studies*. Forthcoming.](https://journals.sagepub.com/doi/full/10.1177/00104140211024314) <br/>
+  [*Comparative Political Studies*. Forthcoming (Online First).](https://journals.sagepub.com/doi/full/10.1177/00104140211024314) <br/>
   
 </summary>
 
