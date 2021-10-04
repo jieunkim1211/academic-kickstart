@@ -66,8 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Who Are They Performing For? Government Leaders' Appearance in Court and Inter-Elite Communication in China (with Rachel Stern) <br/><br/>
-
 Centralizing Jurisdiction of Administrative Litigation and Judicial Independence in China <br/><br/>
 
 Local Leaders' Responses to Lower-level Corruption: Evidence from the People's Daily Message Board (with Tao Li) 
