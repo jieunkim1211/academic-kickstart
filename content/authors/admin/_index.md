@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kimjieun@berkeley.edu
+  link: mailto:kimjieun@sas.upenn.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jieunkim1211
@@ -71,4 +71,4 @@ social:
 
 Welcome! I am a postdoctoral fellow at the University of Pennsylvania, Center for the Study of Contemporary China and will be an assistant professor at NYU Shanghai beginning in the Fall of 2022. I received my Ph.D. in political science from the University of California, Berkeley. My research focuses on local government accountability and transparency in China. 
 
-Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at kimjieun@berkeley.edu.
+Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at kimjieun@sas.upenn.edu.
