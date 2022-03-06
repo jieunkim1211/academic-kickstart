@@ -66,9 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Centralizing Jurisdiction of Administrative Litigation and Judicial Independence in China <br/><br/>
+China's Blacklists (with Peter Lorentzen) <br/><br/>
 
-Local Leaders' Responses to Lower-level Corruption: Evidence from the People's Daily Message Board (with Tao Li) 
+Land Disputes in China's Borderland (with Anna Zhang) <br/><br/>
 
 
 
