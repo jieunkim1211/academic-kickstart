@@ -108,12 +108,13 @@ Studies of local governance in China often point to nimble experimentation but p
 
 
 <details>
-<summary> **Jieun Kim. Local Embeddedness and City Leaders’ Incentives for Government Transparency in China** </span> <br/>
+<summary> **Jieun Kim, Rachel Stern and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
 </summary>
 
-What explains the variation in local government transparency in authoritarian regimes? I examine how city leaders’ embeddedness in local networks, assessed based on their career trajectory, affects their implementation of government transparency. I find that embedded leaders (“insiders”) perform worse on proactively disclosing government information but perform better on responding to citizens’ information disclosure requests, compared to non-embedded leaders (“outsiders”). I argue that while embedded leaders might not bother proactively to disclose information that would embarrass local influentials, they still endeavor to fulfill disclosure requirements upon requests, in part owing to their affinity to the local population. I rely on an original dataset of prefectural-level cities’ annual OGI reports between 2008 and 2016 as well as interviews with government officials and policy experts in China. 
+Starting in 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit. Yet, little empirical research has been undertaken to explain this unique practice of “performing legality,” in which government leaders are asked to sacrifice their time to demonstrate how seriously the government (or at least their unit) takes legal proceedings.  Given time constraints, when and why do government leaders appear in Chinese courtrooms? Drawing on an original dataset of 129,855 administrative lawsuits resolved between 2015 and 2018, we find that government leaders show up in just 10.6 percent of cases. Contrary to our expectation that leaders would prioritize lawsuits that seem likely to spiral into protest, a combination of regression analysis and topic modeling shows no evidence that government leaders are more likely to attend cases involving multiple plaintiffs, or involving the hot button issue of land expropriation. Rather, leaders appear significantly more often in cases involving citizen-side lawyers and multiple government defendants. Drawing on government documents, media reports, and Chinese language scholarship, we suggest that leaders try to sidestep the hard emotion work of defusing plaintiff anger, and instead strategically pick tractable cases to attend. Demands on Chinese officials to “perform legality” are also look poised to continue. This gives courts an increasingly central role in resolving thorny disputes that require coordination between government agencies, and also make them frontline educators in Xi Jinping’s drive to re-train the bureaucracy to take law more seriously.
 
-* Paper presented at [2019 Graduate Seminar on China (CUHK)](http://www.usc.cuhk.edu.hk/activities/gsoc-2019?lang=en), 2019 MPSA Annual meeting
+* Paper presented at 2022 WPSA Autocratic Politics Mini-Conference
+
 </details>
 <br/>
 
