@@ -68,7 +68,7 @@ subtitle = ""
 
 <details>
 <summary> **Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
-  *Journal of Political Institutions and Political Economy*. Forthcoming.
+  [*Journal of Political Institutions and Political Economy* (2022) 2(4): 483-508.](https://www.nowpublishers.com/article/Details/PIP-0046)
   <br/>
 </summary>
 
@@ -82,7 +82,7 @@ Contrary to the lessons of principal-agent models, Chinese leaders have often pr
 
 <details>
 <summary> **Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu. Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
-  [*Comparative Political Studies*. Forthcoming (Online First).](https://journals.sagepub.com/doi/full/10.1177/00104140211024314) <br/>
+  [*Comparative Political Studies* (2022) 55(2): 319-347.](https://journals.sagepub.com/doi/full/10.1177/00104140211024314) <br/>
   
 </summary>
 
@@ -95,7 +95,7 @@ How and when do opportunities for political participation through courts change 
 
 <details>
 <summary> **Jieun Kim and Kevin O'Brien. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
-[*Asian Survey* (2021) 61 (4): 591–614.](https://online.ucpress.edu/as/article-abstract/61/4/591/118261/Understanding-Experimentation-and-ImplementationA?redirectedFrom=fulltext) <br/>
+[*Asian Survey* (2021) 61(4): 591–614.](https://online.ucpress.edu/as/article-abstract/61/4/591/118261/Understanding-Experimentation-and-ImplementationA?redirectedFrom=fulltext) <br/>
   
 </summary>
 
