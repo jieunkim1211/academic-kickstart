@@ -68,7 +68,7 @@ subtitle = ""
 
 China's Blacklists (with Peter Lorentzen) <br/><br/>
 
-Land Disputes in China's Borderland (with Anna Zhang) <br/><br/>
+The Judge-Prosecutor-Lawyer Triangle in Criminal Cases (with Yue Hou) <br/><br/>
 
 
 
