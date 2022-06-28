@@ -89,7 +89,7 @@ Contrary to the lessons of principal-agent models, Chinese leaders have often pr
 How and when do opportunities for political participation through courts change under authoritarianism? Although China is better known for tight political control than for political expression, the 2008 Open Government Information (OGI) regulation ushered in a surge of political-legal activism. We draw on an original dataset of 57,095 OGI lawsuits, supplemented by interview data and government documents, to show how a feedback loop between judges and court users shaped possibilities for political activism and complaint between 2008 and 2019. In contrast to the conventional explanation that authoritarian leaders crack down on legal action when they feel politically threatened, we find that courts minted, defined and popularized new legal labels to cut off access to justice for the minority of super-active litigants whose lawsuits had come to dominate the OGI docket. This study underscores the power of procedural rules and frontline judges in shaping possibilities for political participation under authoritarianism.
 
 * Draft version available [here](https://www.dropbox.com/s/4359m94ivk3fgwz/CPS%202021%20%28draft%29.pdf?dl=0)
-*
+
 </details>
 <br/>
 
