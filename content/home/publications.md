@@ -74,7 +74,7 @@ subtitle = ""
 
 Contrary to the lessons of principal-agent models, Chinese leaders have often provided local officials with ambiguous policy guidelines that do not clarify the boundaries of discretion. While ambiguity can give local officials flexibility in policy implementation, it can also instill fear of punishment among possible transgressors and encourage preemptive self-censoring. Incorporating both perspectives, I develop a formal model that analyzes a situation in which ambiguity allows flexibility for certain types of local officials while intimidating others. I argue that central leaders use ambiguity as a screening tool to encourage only "competent" local officials---or those who have policy expertise for producing good outcomes---to choose a gray-area policy at their own risk, while deterring "incompetent" officials from doing so. I illustrate the model with the case of state-owned enterprise restructuring in China. The argument is broadly applicable to interactions between any upper- and lower-level actors in bureaucratic hierarchy.
 
-* Most recent draft available [here](https://www.dropbox.com/s/5pdcgt5gsinuimb/Kim_ambiguity.pdf?dl=0)
+* Draft version available [here](https://www.dropbox.com/s/lcwhraqf62o6dy3/JPIPE%202021%20%28draft%29.pdf?dl=0)
 * Paper presented at [2021 APSA Formal Theory Virtual Workshop](http://formaltheorysociety.com/virtual-workshop/), [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html).  
 
 </details>
@@ -88,6 +88,8 @@ Contrary to the lessons of principal-agent models, Chinese leaders have often pr
 
 How and when do opportunities for political participation through courts change under authoritarianism? Although China is better known for tight political control than for political expression, the 2008 Open Government Information (OGI) regulation ushered in a surge of political-legal activism. We draw on an original dataset of 57,095 OGI lawsuits, supplemented by interview data and government documents, to show how a feedback loop between judges and court users shaped possibilities for political activism and complaint between 2008 and 2019. In contrast to the conventional explanation that authoritarian leaders crack down on legal action when they feel politically threatened, we find that courts minted, defined and popularized new legal labels to cut off access to justice for the minority of super-active litigants whose lawsuits had come to dominate the OGI docket. This study underscores the power of procedural rules and frontline judges in shaping possibilities for political participation under authoritarianism.
 
+* Draft version available [here](https://www.dropbox.com/s/4359m94ivk3fgwz/CPS%202021%20%28draft%29.pdf?dl=0)
+*
 </details>
 <br/>
 
@@ -101,7 +103,7 @@ How and when do opportunities for political participation through courts change 
 
 Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfolded in one policy area. The history of China’s Open Government Information (OGI) initiative shows that the experimentation stage sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And the implementation stage often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that the experimentation and implementation stages are not so different when officials in Beijing and the localities have diverging interests and the Center is more supportive of a measure than local officials. The ups and downs of OGI, and also village elections, can be traced to the policy goal of monitoring local cadres, the central-local divide, and the pattern of support and opposition within the state.
 
-* Paper available [here](https://www.dropbox.com/s/rzqnv4jflo4j3zv/AS21.pdf?dl=0)
+* Draft version available [here](https://www.dropbox.com/s/w9u9y7l2tu6bbgr/AS%202021.pdf?dl=0)
 
 </details>
 <br/>
@@ -114,6 +116,7 @@ Studies of local governance in China often point to nimble experimentation but p
 Starting in 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit. Yet, little empirical research has been undertaken to explain this unique practice of “performing legality,” in which government leaders are asked to sacrifice their time to demonstrate how seriously the government (or at least their unit) takes legal proceedings.  Given time constraints, when and why do government leaders appear in Chinese courtrooms? Drawing on an original dataset of 129,855 administrative lawsuits resolved between 2015 and 2018, we find that government leaders show up in just 10.6 percent of cases. Contrary to our expectation that leaders would prioritize lawsuits that seem likely to spiral into protest, a combination of regression analysis and topic modeling shows no evidence that government leaders are more likely to attend cases involving multiple plaintiffs, or involving the hot button issue of land expropriation. Rather, leaders appear significantly more often in cases involving citizen-side lawyers and multiple government defendants. Drawing on government documents, media reports, and Chinese language scholarship, we suggest that leaders try to sidestep the hard emotion work of defusing plaintiff anger, and instead strategically pick tractable cases to attend. Demands on Chinese officials to “perform legality” are also look poised to continue. This gives courts an increasingly central role in resolving thorny disputes that require coordination between government agencies, and also make them frontline educators in Xi Jinping’s drive to re-train the bureaucracy to take law more seriously.
 
 * Paper presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series
+* Draft available upon request
 
 </details>
 <br/>
