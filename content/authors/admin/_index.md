@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor Faculty Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Center for the Study of Contemporary China, University of Pennsylvania
+- name: NYU Shanghai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Fellow at the Center for the Study of Contemporary China at University of Pennsylvania.
+bio: I am an Assitant Professor Faculty Fellow of Political Science at NYU Shanghai.
 
 interests:
-- Chinese Bureaucracy
-- Formal Modeling
 - Accountability and Transparency
-- Law and Politics
+- Rulf of Law 
+- Contentious Politics
+- Formal Modeling
+- Computational Text Analysis
 
 education:
   courses:
@@ -69,6 +70,8 @@ social:
 #- Visitors
 ---
 
-Welcome! I am a postdoctoral fellow at the University of Pennsylvania, Center for the Study of Contemporary China and will be an assistant professor at NYU Shanghai beginning in the Fall of 2022. I received my Ph.D. in political science from the University of California, Berkeley. My research focuses on local government accountability and transparency in China. 
+Welcome! I am an Assistant Professor Faculty Fellow of Political Science at NYU Shanghai. My research centers on authoritarian leaders’ governing strategy with a regional focus on China. I study 1) how Chinese leaders attempt to enhance government accountability and manage social grievances by adopting institutions such as the legal system and transparency platforms; and 2) how citizen engagement in these institutions feeds back into the leaders’ strategy. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
 
-Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at kimjieun@sas.upenn.edu.
+I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the University of Pennsylvania.
+
+Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at jk8040@nyu.edu.
