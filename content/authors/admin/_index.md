@@ -70,8 +70,8 @@ social:
 #- Visitors
 ---
 
-Welcome! I am an Assistant Professor Faculty Fellow of Political Science at NYU Shanghai. My research centers on authoritarian leaders’ governing strategy with a regional focus on China. I study 1) how Chinese leaders attempt to enhance government accountability and manage social grievances by adopting institutions such as the legal system and transparency platforms; and 2) how citizen engagement in these institutions feeds back into the leaders’ strategy. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
+Welcome! I am an Assistant Professor Faculty Fellow of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research centers on authoritarian leaders’ governing strategy with a regional focus on China. I study 1) how Chinese leaders attempt to enhance government accountability and manage social grievances by adopting institutions such as the legal system and transparency platforms; and 2) how citizen engagement in these institutions feeds back into the leaders’ strategy. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
 
-I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the University of Pennsylvania.
+I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the [Center for the Study of Contemporary China at the University of Pennsylvania](https://cscc.sas.upenn.edu).
 
 Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at jk8040@nyu.edu.
