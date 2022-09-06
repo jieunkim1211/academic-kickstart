@@ -111,7 +111,7 @@ Studies of local governance in China often point to nimble experimentation but p
 
 <details>
 <summary> **Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
-Under Review.) <br/>
+Under Review. <br/>
   
 </summary>
 
