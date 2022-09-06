@@ -103,7 +103,7 @@ How and when do opportunities for political participation through courts change 
 
 Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfolded in one policy area. The history of China’s Open Government Information (OGI) initiative shows that the experimentation stage sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And the implementation stage often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that the experimentation and implementation stages are not so different when officials in Beijing and the localities have diverging interests and the Center is more supportive of a measure than local officials. The ups and downs of OGI, and also village elections, can be traced to the policy goal of monitoring local cadres, the central-local divide, and the pattern of support and opposition within the state.
 
-* Draft version available [here](https://www.dropbox.com/s/w9u9y7l2tu6bbgr/AS%202021.pdf?dl=0)
+* Paper available [here](https://www.dropbox.com/s/w9u9y7l2tu6bbgr/AS%202021.pdf?dl=0)
 
 </details>
 <br/>
@@ -111,6 +111,8 @@ Studies of local governance in China often point to nimble experimentation but p
 
 <details>
 <summary> **Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
+Under Review.) <br/>
+  
 </summary>
 
 Starting in 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit. Yet, little empirical research has been undertaken to explain this unique practice of “performing legality,” in which government leaders are asked to sacrifice their time to demonstrate how seriously the government (or at least their unit) takes legal proceedings.  Given time constraints, when and why do government leaders appear in Chinese courtrooms? Drawing on an original dataset of 129,855 administrative lawsuits resolved between 2015 and 2018, we find that government leaders show up in just 10.6 percent of cases. Contrary to our expectation that leaders would prioritize lawsuits that seem likely to spiral into protest, a combination of regression analysis and topic modeling shows no evidence that government leaders are more likely to attend cases involving multiple plaintiffs, or involving the hot button issue of land expropriation. Rather, leaders appear significantly more often in cases involving citizen-side lawyers and multiple government defendants. Drawing on government documents, media reports, and Chinese language scholarship, we suggest that leaders try to sidestep the hard emotion work of defusing plaintiff anger, and instead strategically pick tractable cases to attend. Demands on Chinese officials to “perform legality” are also look poised to continue. This gives courts an increasingly central role in resolving thorny disputes that require coordination between government agencies, and also make them frontline educators in Xi Jinping’s drive to re-train the bureaucracy to take law more seriously.
