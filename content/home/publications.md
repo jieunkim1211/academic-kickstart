@@ -68,13 +68,14 @@ subtitle = ""
 
 <details>
 <summary> **Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
-  [*Journal of Political Institutions and Political Economy* (2022) 2(4): 483-508.](https://www.nowpublishers.com/article/Details/PIP-0046)
+  *Journal of Political Institutions and Political Economy* (2022) 2(4): 483-508.
   <br/>
 </summary>
 
 Contrary to the lessons of principal-agent models, Chinese leaders have often provided local officials with ambiguous policy guidelines that do not clarify the boundaries of discretion. While ambiguity can give local officials flexibility in policy implementation, it can also instill fear of punishment among possible transgressors and encourage preemptive self-censoring. Incorporating both perspectives, I develop a formal model that analyzes a situation in which ambiguity allows flexibility for certain types of local officials while intimidating others. I argue that central leaders use ambiguity as a screening tool to encourage only "competent" local officials---or those who have policy expertise for producing good outcomes---to choose a gray-area policy at their own risk, while deterring "incompetent" officials from doing so. I illustrate the model with the case of state-owned enterprise restructuring in China. The argument is broadly applicable to interactions between any upper- and lower-level actors in bureaucratic hierarchy.
 
-* Draft version available [here](https://www.dropbox.com/s/lcwhraqf62o6dy3/JPIPE%202021%20%28draft%29.pdf?dl=0)
+* Link to publication [here](https://www.nowpublishers.com/article/Details/PIP-0046) 
+* Draft version [here](https://www.dropbox.com/s/lcwhraqf62o6dy3/JPIPE%202021%20%28draft%29.pdf?dl=0)
 * Paper presented at [2021 APSA Formal Theory Virtual Workshop](http://formaltheorysociety.com/virtual-workshop/), [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html).  
 
 </details>
@@ -82,13 +83,14 @@ Contrary to the lessons of principal-agent models, Chinese leaders have often pr
 
 <details>
 <summary> **Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu. Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
-  [*Comparative Political Studies* (2022) 55(2): 319-347.](https://journals.sagepub.com/doi/full/10.1177/00104140211024314) <br/>
+  *Comparative Political Studies* (2022) 55(2): 319-347. <br/>
   
 </summary>
 
 How and when do opportunities for political participation through courts change under authoritarianism? Although China is better known for tight political control than for political expression, the 2008 Open Government Information (OGI) regulation ushered in a surge of political-legal activism. We draw on an original dataset of 57,095 OGI lawsuits, supplemented by interview data and government documents, to show how a feedback loop between judges and court users shaped possibilities for political activism and complaint between 2008 and 2019. In contrast to the conventional explanation that authoritarian leaders crack down on legal action when they feel politically threatened, we find that courts minted, defined and popularized new legal labels to cut off access to justice for the minority of super-active litigants whose lawsuits had come to dominate the OGI docket. This study underscores the power of procedural rules and frontline judges in shaping possibilities for political participation under authoritarianism.
 
-* Draft version available [here](https://www.dropbox.com/s/4359m94ivk3fgwz/CPS%202021%20%28draft%29.pdf?dl=0)
+* Link to publication [here](https://journals.sagepub.com/doi/full/10.1177/00104140211024314)
+* Draft version [here](https://www.dropbox.com/s/4359m94ivk3fgwz/CPS%202021%20%28draft%29.pdf?dl=0)
 
 </details>
 <br/>
@@ -97,12 +99,13 @@ How and when do opportunities for political participation through courts change 
 
 <details>
 <summary> **Jieun Kim and Kevin O'Brien. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
-[*Asian Survey* (2021) 61(4): 591–614.](https://online.ucpress.edu/as/article-abstract/61/4/591/118261/Understanding-Experimentation-and-ImplementationA?redirectedFrom=fulltext) <br/>
+*Asian Survey* (2021) 61(4): 591–614. <br/>
   
 </summary>
 
 Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfolded in one policy area. The history of China’s Open Government Information (OGI) initiative shows that the experimentation stage sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And the implementation stage often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that the experimentation and implementation stages are not so different when officials in Beijing and the localities have diverging interests and the Center is more supportive of a measure than local officials. The ups and downs of OGI, and also village elections, can be traced to the policy goal of monitoring local cadres, the central-local divide, and the pattern of support and opposition within the state.
 
+* Link to publication [here](https://online.ucpress.edu/as/article-abstract/61/4/591/118261/Understanding-Experimentation-and-ImplementationA?redirectedFrom=fulltext)
 * Paper available [here](https://www.dropbox.com/s/w9u9y7l2tu6bbgr/AS%202021.pdf?dl=0)
 
 </details>
@@ -115,15 +118,28 @@ Under Review. <br/>
   
 </summary>
 
-Starting in 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit. Yet, little empirical research has been undertaken to explain this unique practice of “performing legality,” in which government leaders are asked to sacrifice their time to demonstrate how seriously the government (or at least their unit) takes legal proceedings.  Given time constraints, when and why do government leaders appear in Chinese courtrooms? Drawing on an original dataset of 129,855 administrative lawsuits resolved between 2015 and 2018, we find that government leaders show up in just 10.6 percent of cases. Contrary to our expectation that leaders would prioritize lawsuits that seem likely to spiral into protest, a combination of regression analysis and topic modeling shows no evidence that government leaders are more likely to attend cases involving multiple plaintiffs, or involving the hot button issue of land expropriation. Rather, leaders appear significantly more often in cases involving citizen-side lawyers and multiple government defendants. Drawing on government documents, media reports, and Chinese language scholarship, we suggest that leaders try to sidestep the hard emotion work of defusing plaintiff anger, and instead strategically pick tractable cases to attend. Demands on Chinese officials to “perform legality” are also look poised to continue. This gives courts an increasingly central role in resolving thorny disputes that require coordination between government agencies, and also make them frontline educators in Xi Jinping’s drive to re-train the bureaucracy to take law more seriously.
+Since 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit, or designate an employee to take their place. Conceptually, we frame this policy as a demand on leaders to “perform legality,” sacrificing their time to demonstrate how seriously the government takes legal proceedings.  Empirically, we draw on an original dataset of 127,529 administrative lawsuits decided between 2015 and 2018 to understand how often government leaders appear in Chinese courtrooms, and for which kinds of cases. Overall, leaders attended 24.72 percent of cases. However, despite the State Council’s instructions to prioritize attendance in lawsuits that may spiral into protest or draw public attention, leaders are no more likely to attend cases involving multiple plaintiffs or repeat litigants. Rather, they appear more in cases in which plaintiffs are represented by lawyers. Despite leaders’ conflict avoidance, China continues to ask leaders to personally appear in court in contentious cases. This makes courts key players in General Secretary Xi Jinping’s drive to re-train the bureaucracy to take law more seriously. 
 
-* Paper presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series
+* Paper presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series 
 * Draft available upon request
 
 </details>
 <br/>
 
 
+<details>
+<summary> **Yue Hou and Jieun Kim. Not So Powerless: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement** </span> <br/>
+  
+</summary>
+
+In autocracies, courts are often seen as tools of the autocrats, and lawyers are perceived as powerless. We challenge these assumptions by examining the role of criminal defense lawyers in China. Analyzing an original dataset of drug cases in Chinese criminal courts from 2014 to 2018, we find that when a lawyer is present, judges are three times more likely to reject prosecutors’ arguments and twice more likely to deviate from prosecutors’ sentencing recommendations. The deviation, on average, is over two additional months. These findings suggest that lawyers can exert a substantial impact on judicial decisions by encouraging judge-prosecutor disagreement, particularly in less politically sensitive cases. Close examinations of lawyers’ arguments and original interviews reveal that the quality of defense is crucial for understanding lawyers’ effectiveness in influencing court decisions. The results highlight how seemingly toothless non-state actors like lawyers can exert influence over powerful state actors in authoritarian regimes.
+
+* Paper presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association), and other workshops by coauthor
+* [Main draft](https://www.dropbox.com/scl/fi/jytfmgx9n9ltbggp4pm8i/lawyer_jan2024.pdf?rlkey=4y3c80q1596qni3yk1i62wiui&dl=0), [Appendix](https://www.dropbox.com/scl/fi/ryr4xxx7mkzto0lqc3dk3/lawyer_appendix_jan2024.pdf?rlkey=xe0oert5lcgxzws4at1givvty&dl=0)
+
+
+</details>
+<br/>
 
 
 
