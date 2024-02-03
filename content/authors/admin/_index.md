@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor Faculty Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assitant Professor Faculty Fellow of Political Science at NYU Shanghai.
+bio: I am an Assitant Professor of Political Science at NYU Shanghai.
 
 interests:
-- Accountability and Transparency
-- Rulf of Law 
-- Contentious Politics
+- Authoritarian courts 
+- Government accountability
+- Language and identity
 - Formal Modeling
-- Computational Text Analysis
 
 education:
   courses:
@@ -70,8 +69,8 @@ social:
 #- Visitors
 ---
 
-Welcome! I am an Assistant Professor Faculty Fellow of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research centers on authoritarian leaders’ governing strategy with a regional focus on China. I study 1) how Chinese leaders attempt to enhance government accountability and manage social grievances by adopting institutions such as the legal system and transparency platforms; and 2) how citizen engagement in these institutions feeds back into the leaders’ strategy. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
+Welcome! I am an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research centers on authoritarian leaders’ governing strategy with a regional focus on China. I study 1) how Chinese leaders attempt to enhance government accountability through legal institutions; and 2) how societal actors' engagement in these institutions feeds back into the leaders’ strategy. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
 
 I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the [Center for the Study of Contemporary China at the University of Pennsylvania](https://cscc.sas.upenn.edu).
 
-Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at jk8040@nyu.edu.
+Please find my CV [here](https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0). You can reach me at kimjieun@nyu.edu.
