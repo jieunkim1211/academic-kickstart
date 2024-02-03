@@ -66,15 +66,18 @@ subtitle = ""
  css_class = ""
 +++
 
-**PS 3: Introduction to Empirical Analysis and Quantitative Methods** <br/>
-&nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2017 <br/>
-&nbsp; &nbsp; Graduate Student Instructor for Professor Jason Wittenberg <br/>
-&nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/k7pqq97gewafui6/Wittenberg_3Fall2017.pdf?dl=0), [Section Syllabus](https://www.dropbox.com/s/afryg9v3z7tmgc0/PS3_Kim_SectionSyllabus.docx?dl=0)<br/> 
+
+**NYU Shanghai**
+
+&nbsp; &nbsp; SOCS-SHU 150: Introduction to Comparative Politics (undergraduate; Fall 2022, Fall 2023) <br/>
+&nbsp; &nbsp; SOCS-SHU 331: Politics of China (undergraduate; Spring 2023, Spring 2024) <br/>
+&nbsp; &nbsp; SOCS-SHU 402: Social Science Capstone Seminar (undergraduate; Spring 2024) <br/> 
 
 <br/>
 
-**PS 232A: Formal Models of Political Science** <br/>
-&nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2020; Spring 2021 <br/>
-&nbsp; &nbsp; Graduate Student Instructor for Professor Andrew Little <br/> 
-&nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/kgm0431z45q26vi/GT1syllabusS20.pdf?dl=0) <br/>
+**UC Berkeley** <br/>
+
+&nbsp; &nbsp; PS 3: Introduction to Empirical Analysis and Quantitative Methods (undergraduate; Fall 2017) <br/>
+&nbsp; &nbsp; PS 232A: Formal Models of Political Science (graduate; Spring 2020, Spring 2021) <br/> 
+
 
