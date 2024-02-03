@@ -66,9 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
+National Language Education under Authoritarianism: The Case of Putonghua Promotion in China  <br/><br/>
+
 China's Blacklists (with Peter Lorentzen) <br/><br/>
 
-The Judge-Prosecutor-Lawyer Triangle in Criminal Cases (with Yue Hou) <br/><br/>
+Formal Model of Autocratic Accommodation (with Kevin O'Brien) <br/><br/>
+
 
 
 
