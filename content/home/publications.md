@@ -129,6 +129,7 @@ Since 2015, Chinese government leaders have been required by law to appear in co
 
 <details>
 <summary> **Yue Hou and Jieun Kim. Not So Powerless: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement** </span> <br/>
+Under Review. <br/> 
   
 </summary>
 
