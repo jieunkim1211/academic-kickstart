@@ -150,6 +150,7 @@ Under Review. <br/>
 
 While language standardization and popular literacy are commonly associated with democratic development, I argue that they may also help autocrats bolster regime support. Drawing on surveys and original interviews, I examine this argument in China, which has successfully disseminated a common language called "putonghua" in recent decades. By leveraging cross-cohort, cross-locality variations
 in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases regime support. Individual-level evidence suggests two possible mechanisms: first, increased consumption of television political news, an important vessel for state propaganda, and second, greater access to post-secondary education essential for material well-being. Despite concerns about stifling diversity, the regime has managed to broaden its support base by cultivating more aligned and contented younger generations, among both speakers of regional Chinese varieties and ethnic minorities. This study has implications for state-society communications, social mobility, and authoritarian state-building.
+
 * Paper presented at 2023 APSA Annual Meeting
 
 
