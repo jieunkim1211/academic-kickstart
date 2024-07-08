@@ -66,11 +66,10 @@ subtitle = ""
  css_class = ""
 +++
 
-National Language Education under Authoritarianism: The Case of Putonghua Promotion in China  <br/><br/>
-
 China's Blacklists (with Peter Lorentzen) <br/><br/>
 
 Formal Model of Autocratic Accommodation (with Tak-Huen Chau, Kevin O'Brien) <br/><br/>
+
 
 
 
