@@ -73,4 +73,4 @@ Welcome! I am an Assistant Professor of Political Science at [NYU Shanghai](http
 
 I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the [Center for the Study of Contemporary China at the University of Pennsylvania](https://cscc.sas.upenn.edu).
 
-Please find my CV [here]([https://www.dropbox.com/s/nkxcizdig70o3by/Kim.Jieun_CV.pdf?dl=0](https://www.dropbox.com/scl/fi/hzlbtm93d1is7fo65sh35/Kim.Jieun_CV.pdf?rlkey=q0yj68dze58498p9nw4s7d1yv&st=v5628tog&dl=0)). You can reach me at kimjieun@nyu.edu.
+Please find my CV [here](https://www.dropbox.com/scl/fi/hzlbtm93d1is7fo65sh35/Kim.Jieun_CV.pdf?rlkey=q0yj68dze58498p9nw4s7d1yv&st=v5628tog&dl=0). You can reach me at kimjieun@nyu.edu.
