@@ -21,10 +21,10 @@ organizations:
 bio: I am an Assitant Professor of Political Science at NYU Shanghai.
 
 interests:
-- Authoritarian courts 
-- Government accountability
-- Language and identity
-- Formal Modeling
+- Accountability, transparency, legality
+- Language and state-society communication 
+- Chinese politics 
+- Formal modeling; computational text analysis
 
 education:
   courses:
@@ -69,7 +69,7 @@ social:
 #- Visitors
 ---
 
-Welcome! I am an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research centers on authoritarian politics with a regional focus on China. I study 1) how Chinese leaders attempt to enhance government accountability through legal institutions; and 2) how societal actors' engagement in these institutions feeds back into the leaders’ strategy. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
+Welcome! I am an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
 
 I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the [Center for the Study of Contemporary China at the University of Pennsylvania](https://cscc.sas.upenn.edu).
 
