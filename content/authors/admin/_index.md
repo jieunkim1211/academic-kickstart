@@ -21,9 +21,9 @@ organizations:
 bio: I am an Assitant Professor of Political Science at NYU Shanghai.
 
 interests:
+- China, authoritarianism
 - Accountability, transparency, legality
-- Language and state-society communication 
-- Chinese politics 
+- Language policies  
 - Formal modeling; computational text analysis
 
 education:
