@@ -67,6 +67,21 @@ subtitle = ""
 +++
 
 <details>
+<summary> **Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
+Accepted at *Journal of Chinese Political Science*. 2024. <br/>
+  
+</summary>
+
+Since 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit, or designate an employee to take their place. Conceptually, we frame this policy as a demand on leaders to “perform legality,” sacrificing their time to demonstrate how seriously the government takes legal proceedings.  Empirically, we draw on an original dataset of 127,529 administrative lawsuits decided between 2015 and 2018 to understand how often government leaders appear in Chinese courtrooms, and for which kinds of cases. Overall, leaders attended 24.72 percent of cases. However, despite the State Council’s instructions to prioritize attendance in lawsuits that may spiral into protest or draw public attention, leaders are no more likely to attend cases involving multiple plaintiffs or repeat litigants. Rather, they appear more in cases in which plaintiffs are represented by lawyers. Despite leaders’ conflict avoidance, China continues to ask leaders to personally appear in court in contentious cases. This makes courts key players in General Secretary Xi Jinping’s drive to re-train the bureaucracy to take law more seriously. 
+
+* Paper presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series 
+* Draft available upon request
+
+</details>
+<br/>
+
+
+<details>
 <summary> **Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
   *Journal of Political Institutions and Political Economy* (2022) 2(4): 483-508.
   <br/>
@@ -112,19 +127,7 @@ Studies of local governance in China often point to nimble experimentation but p
 <br/>
 
 
-<details>
-<summary> **Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
-Revise and Resubmit. <br/>
-  
-</summary>
 
-Since 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit, or designate an employee to take their place. Conceptually, we frame this policy as a demand on leaders to “perform legality,” sacrificing their time to demonstrate how seriously the government takes legal proceedings.  Empirically, we draw on an original dataset of 127,529 administrative lawsuits decided between 2015 and 2018 to understand how often government leaders appear in Chinese courtrooms, and for which kinds of cases. Overall, leaders attended 24.72 percent of cases. However, despite the State Council’s instructions to prioritize attendance in lawsuits that may spiral into protest or draw public attention, leaders are no more likely to attend cases involving multiple plaintiffs or repeat litigants. Rather, they appear more in cases in which plaintiffs are represented by lawyers. Despite leaders’ conflict avoidance, China continues to ask leaders to personally appear in court in contentious cases. This makes courts key players in General Secretary Xi Jinping’s drive to re-train the bureaucracy to take law more seriously. 
-
-* Paper presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series 
-* Draft available upon request
-
-</details>
-<br/>
 
 
 <details>
@@ -148,10 +151,9 @@ Under Review. <br/>
   
 </summary>
 
-While language standardization and popular literacy are commonly associated with democratic development, I argue that they may also help autocrats bolster regime support. Drawing on surveys and original interviews, I examine this argument in China, which has successfully disseminated a common language called "putonghua" in recent decades. By leveraging cross-cohort, cross-locality variations
-in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases regime support. Individual-level evidence suggests two possible mechanisms: first, increased consumption of television political news, an important vessel for state propaganda, and second, greater access to post-secondary education essential for material well-being. Despite concerns about stifling diversity, the regime has managed to broaden its support base by cultivating more aligned and contented younger generations, among both speakers of regional Chinese varieties and ethnic minorities. This study has implications for state-society communications, social mobility, and authoritarian state-building.
+While language standardization and popular literacy are commonly associated with democratic development, I argue that they may also help autocrats bolster regime support. Drawing on surveys and original interviews, I examine this argument in China, which has successfully disseminated a common language called "putonghua" in recent decades. By leveraging cross-cohort, cross-locality variations in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases regime support. Individual-level evidence suggests two possible mechanisms: first, increased consumption of television political news, an important vessel for state propaganda, and second, greater access to post-secondary education essential for material well-being. Despite concerns about stifling diversity, the regime has managed to broaden its support base by cultivating more aligned and contented younger generations, among both speakers of regional Chinese varieties and ethnic minorities. This study has implications for state-society communications, social mobility, and authoritarian state-building.
 
-* Paper presented at 2023 APSA Annual Meeting
+* Paper presented at APSA Annual Meeting 2023, 2024 (China mini-conference)
 
 
 
