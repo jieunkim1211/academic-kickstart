@@ -132,7 +132,7 @@ Studies of local governance in China often point to nimble experimentation but p
 
 <details>
 <summary> **Yue Hou and Jieun Kim. Not So Powerless: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement** </span> <br/>
-Under Review. <br/> 
+Revise and Resubmit (*World Politics*). <br/> 
   
 </summary>
 
