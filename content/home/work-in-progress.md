@@ -68,7 +68,9 @@ subtitle = ""
 
 China's Blacklists (with Peter Lorentzen) <br/><br/>
 
-Formal Model of Autocratic Accommodation (with Tak-Huen Chau, Kevin O'Brien) <br/><br/>
+A Formal Model of Autocratic Accommodation (with Tak-Huen Chau, Kevin O'Brien) <br/><br/>
+
+Linguistic Diversity and Communal Violence during China's Cultural Revoltuion (with Yu Zeng) <br/><br/>
 
 
 
