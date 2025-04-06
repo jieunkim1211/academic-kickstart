@@ -5,8 +5,6 @@
 ## Theme
 ############################
 
-plugins_css = ["assets/css/custom.css"]
-
 # Choose a theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
@@ -21,6 +19,9 @@ day_night = true
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
 font = "default"
+
+plugins_css = ["css/custom.css"]
+
 
 
 # Choose a font size.
