@@ -20,9 +20,6 @@ day_night = true
 #   Browse user installed font sets in `data/fonts/`
 font = "default"
 
-plugins_css = ["css/custom.css"]
-
-
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
