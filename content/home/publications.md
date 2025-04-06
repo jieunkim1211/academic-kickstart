@@ -90,7 +90,7 @@ Since 2015, Chinese government leaders have been required by law to appear in co
 
 <strong>3. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines</strong> <br/>
 &bull; <em>Journal of Political Institutions and Political Economy</em> (2022) 2(4): 483-508.<br/>
-&bull; Presented at [2021 APSA Formal Theory Virtual Workshop](http://formaltheorysociety.com/virtual-workshop/), [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html).<br/>
+&bull; Presented at 2021 APSA Formal Theory Virtual Workshop, 2018 New Faces in China Studies Conference, 2019 MPSA Annual Meeting, and the 2019 [EITM](http://eitm.emory.edu/index.html) Summer Institute.<br/>
 <a class="btn btn-outline-primary" href="https://www.nowpublishers.com/article/Details/PIP-0046" target="_blank">Website</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/pyhqc7lzrb5jlvh2e110v/3.JPIPE-2022-draft.pdf?rlkey=vtvvh3wwtr42p2q7f2w1b01j6&st=qxq8di36&dl=0" target="_blank">PDF</a>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstract3')">Abstract</a>
