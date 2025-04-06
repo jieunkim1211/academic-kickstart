@@ -74,7 +74,7 @@ details summary::-webkit-details-marker {
 </style>
 
 <details>
-<summary> **Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
+<summary> **4. Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
 Online First at *Journal of Chinese Political Science*. 2024. <br/>
   
 </summary>
@@ -90,7 +90,7 @@ Since 2015, Chinese government leaders have been required by law to appear in co
 
 
 <details>
-<summary> **Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
+<summary> **3. Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
   *Journal of Political Institutions and Political Economy* (2022) 2(4): 483-508.
   <br/>
 </summary>
@@ -105,7 +105,7 @@ Contrary to the lessons of principal-agent models, Chinese leaders have often pr
 <br/>
 
 <details>
-<summary> **Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu. Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
+<summary> **2. Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu. Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
   *Comparative Political Studies* (2022) 55(2): 319-347. <br/>
   
 </summary>
@@ -121,7 +121,7 @@ How and when do opportunities for political participation through courts change 
 
 
 <details>
-<summary> **Jieun Kim and Kevin O'Brien. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
+<summary> **1. Jieun Kim and Kevin O'Brien. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
 *Asian Survey* (2021) 61(4): 591–614. <br/>
   
 </summary>
@@ -139,12 +139,12 @@ Studies of local governance in China often point to nimble experimentation but p
 
 
 <details>
-<summary> **Yue Hou and Jieun Kim. Not So Powerless: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement** </span> <br/>
+<summary> **Yue Hou and Jieun Kim. Rightful Challengers: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement** </span> <br/>
 Revise and Resubmit at *World Politics*. <br/>  
   
 </summary>
 
-In autocracies, courts are often seen as tools of the autocrats, and lawyers are perceived as powerless. We challenge these assumptions by examining the role of criminal defense lawyers in China. Analyzing an original dataset of drug cases in Chinese criminal courts from 2014 to 2018, we find that when a lawyer is present, judges are three times more likely to reject prosecutors’ arguments and twice more likely to deviate from prosecutors’ sentencing recommendations. The deviation, on average, is over two additional months. These findings suggest that lawyers can exert a substantial impact on judicial decisions by encouraging judge-prosecutor disagreement, particularly in less politically sensitive cases. Close examinations of lawyers’ arguments and original interviews reveal that the quality of defense is crucial for understanding lawyers’ effectiveness in influencing court decisions. The results highlight how seemingly toothless non-state actors like lawyers can exert influence over powerful state actors in authoritarian regimes.
+In autocracies, courts are often perceived as tools of the autocrats, with lawyers viewed as lacking influence. We reassess these assumptions by examining criminal defense lawyers as “rightful challengers” within China’s legal system. Analyzing an original dataset of drug cases in Chinese criminal courts from 2014 to 2018, we find that, when a lawyer is present, judges are three times more likely to reject prosecutors’ arguments and twice as likely to deviate from prosecutors’ sentencing recommendations. The deviation, on average, results in sentences that are over two additional months shorter. These findings suggest that lawyers can exert a substantial impact on judicial decisions by encouraging judge-prosecutor disagreement, particularly in less politically sensitive cases. Close examinations of lawyers’ arguments and original interviews reveal that the quality of defense is crucial for understanding lawyers’ effectiveness in influencing court decisions. These results highlight how seemingly powerless societal actors, like lawyers, can act as rightful challengers to powerful state actors within authoritarian regimes.
 
 * Paper presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association), and other workshops by coauthor
 * [Main draft](https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0), [Appendix](https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=gtqk3avk&dl=0)
@@ -154,12 +154,12 @@ In autocracies, courts are often seen as tools of the autocrats, and lawyers are
 <br/>
 
 <details>
-<summary> **Jieun Kim. Standard Language Promotion and Authoritarian State-Building** </span> <br/>
+<summary> **Jieun Kim. Standard Language, Propaganda, and Government Satisfaction under Authoritarianism** </span> <br/>
 Under Review. <br/> 
   
 </summary>
 
-While language standardization and popular literacy are commonly associated with democratic development, I argue that they may also help autocrats bolster regime support. Drawing on surveys and original interviews, I examine this argument in China, which has successfully disseminated a common language called "putonghua" in recent decades. By leveraging cross-cohort, cross-locality variations in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases regime support. Individual-level evidence suggests two possible mechanisms: first, increased consumption of television political news, an important vessel for state propaganda, and second, greater access to post-secondary education essential for material well-being. Despite concerns about stifling diversity, the regime has managed to broaden its support base by cultivating more aligned and contented younger generations, among both speakers of regional Chinese varieties and ethnic minorities. This study has implications for state-society communications, social mobility, and authoritarian state-building.
+Beyond its role in nation- and state-building, I argue that standard language promotion enables autocrats to increase citizens’ satisfaction with the government by amplifying propaganda. Drawing on large-scale surveys and original interviews, I test this argument in China, which has successfully promoted a common language, putonghua, in recent decades. By leveraging cross-cohort, cross-locality variations in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases government satisfaction. Individual-level evidence highlights a potential mechanism: increased consumption of television political news, a key channel for state propaganda delivered exclusively in putonghua. Despite some resistance, the regime has managed to cultivate younger generations more aligned with its goal, among both speakers of regional Chinese varieties and ethnic minorities. This study has implications for state-society communications and authoritarian control.
 
 * Paper presented at APSA Annual Meeting 2023, 2024 (China mini-conference), Nanjing University 
 
