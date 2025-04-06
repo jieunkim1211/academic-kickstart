@@ -130,7 +130,7 @@ Studies of local governance in China often point to nimble experimentation but p
 <strong>Rightful Challengers: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement</strong> <br/>
 &bull; with Yue Hou <br/>
 &bull; Revise and Resubmit at <em>World Politics</em>. <br/>
-&bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association), and other workshops by coauthor
+&bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association) Annual Meeting, and other workshops by coauthor <br/>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0" target="_blank">Draft</a>
 <a class="btn btn-outline-primary" href="[https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0](https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=gtqk3avk&dl=0)" target="_blank">Appendix</a>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractWP')">Abstract</a>
@@ -143,7 +143,7 @@ In autocracies, courts are often perceived as tools of the autocrats, with lawye
 
 <strong>Standard Language, Propaganda, and Government Satisfaction under Authoritarianism</strong> <br/>
 &bull; Under Review. <br/>
-&bull; Presented at APSA Annual Meeting 2023, 2024 (China mini-conference), Nanjing University 
+&bull; Presented at 2023, 2024 APSA Annual Meeting (24' China mini-conference), Nanjing University <br/>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractPTH')">Abstract</a>
   
 <!-- Abstract 내용 (처음에는 숨김 상태) -->
