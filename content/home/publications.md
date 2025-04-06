@@ -79,7 +79,8 @@ details summary::-webkit-details-marker {
 Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
 <a class="btn btn-outline-primary" href="https://link.springer.com/article/10.1007/s11366-024-09901-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241128&utm_content=10.1007%2Fs11366-024-09901-6" target="_blank">Website</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/rsedm6k42ztgssulxmrgn/4.JCPS-2024.pdf?rlkey=tf7c4ugnlq3de2pdjgfd2ey9b&st=c1nnkugc&dl=0" target="_blank">PDF</a>
-<a class="btn btn-outline-primary" onclick="toggleAbstract('abstract4')" style="cursor: pointer;">Abstract</a>
+<a class="btn btn-outline-primary" onclick="toggleAbstract('abstract4')" style="cursor: pointer; color: #007bff;">Abstract</a>
+
 </summary>
 
 <!-- Abstract 내용 (처음에는 숨김 상태) -->
