@@ -74,8 +74,10 @@ details summary::-webkit-details-marker {
 </style>
 
 
-<strong>4. Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court</strong> <br/>
+<strong>4. Performing Legality: When and Why Chinese Government Leaders Show Up in Court</strong> <br/>
+with Rachel Stern and Benjamin Liebman <br/>
 Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
+Presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series
 <a class="btn btn-outline-primary" href="https://link.springer.com/article/10.1007/s11366-024-09901-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241128&utm_content=10.1007%2Fs11366-024-09901-6" target="_blank">Website</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/rsedm6k42ztgssulxmrgn/4.JCPS-2024.pdf?rlkey=tf7c4ugnlq3de2pdjgfd2ey9b&st=c1nnkugc&dl=0" target="_blank">PDF</a>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstract4')">Abstract</a>
@@ -83,8 +85,6 @@ Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
 <!-- Abstract 내용 (처음에는 숨김 상태) -->
 <div id="abstract4" style="display: none; margin-top: 10px;">
 Since 2015, Chinese government leaders have been required by law to appear in court when citizens sue their unit, or designate an employee to take their place. Conceptually, we frame this policy as a demand on leaders to “perform legality,” sacrificing their time to demonstrate how seriously the government takes legal proceedings.  Empirically, we draw on an original dataset of 127,529 administrative lawsuits decided between 2015 and 2018 to understand how often government leaders appear in Chinese courtrooms, and for which kinds of cases. Overall, leaders attended 24.72 percent of cases. However, despite the State Council’s instructions to prioritize attendance in lawsuits that may spiral into protest or draw public attention, leaders are no more likely to attend cases involving multiple plaintiffs or repeat litigants. Rather, they appear more in cases in which plaintiffs are represented by lawyers. Despite leaders’ conflict avoidance, China continues to ask leaders to personally appear in court in contentious cases. This makes courts key players in General Secretary Xi Jinping’s drive to re-train the bureaucracy to take law more seriously. 
-  <br/><br/>
-  <em>* Paper presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series</em>
 </div>
 <br/>
 
