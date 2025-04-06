@@ -76,8 +76,8 @@ details summary::-webkit-details-marker {
 
 <strong>4. Performing Legality: When and Why Chinese Government Leaders Show Up in Court</strong> <br/>
 with Rachel Stern and Benjamin Liebman <br/>
-Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
-Presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series
+* Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
+* Presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series<br/>
 <a class="btn btn-outline-primary" href="https://link.springer.com/article/10.1007/s11366-024-09901-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241128&utm_content=10.1007%2Fs11366-024-09901-6" target="_blank">Website</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/rsedm6k42ztgssulxmrgn/4.JCPS-2024.pdf?rlkey=tf7c4ugnlq3de2pdjgfd2ey9b&st=c1nnkugc&dl=0" target="_blank">PDF</a>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstract4')">Abstract</a>
@@ -88,52 +88,44 @@ Since 2015, Chinese government leaders have been required by law to appear in co
 </div>
 <br/>
 
-
-<details>
-<summary> **3. Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
-  *Journal of Political Institutions and Political Economy* (2022) 2(4): 483-508.
-  <br/>
-</summary>
-
+<strong>3. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines</strong> <br/>
+* <em>Journal of Political Institutions and Political Economy</em> (2022) 2(4): 483-508.<br/>
+* Presented at [2021 APSA Formal Theory Virtual Workshop](http://formaltheorysociety.com/virtual-workshop/), [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html).<br/>
+<a class="btn btn-outline-primary" href="https://www.nowpublishers.com/article/Details/PIP-0046" target="_blank">Website</a>
+<a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/pyhqc7lzrb5jlvh2e110v/3.JPIPE-2022-draft.pdf?rlkey=vtvvh3wwtr42p2q7f2w1b01j6&st=qxq8di36&dl=0" target="_blank">PDF</a>
+<a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstract3')">Abstract</a>
+  
+<!-- Abstract 내용 (처음에는 숨김 상태) -->
+<div id="abstract3" style="display: none; margin-top: 10px;">
 Contrary to the lessons of principal-agent models, Chinese leaders have often provided local officials with ambiguous policy guidelines that do not clarify the boundaries of discretion. While ambiguity can give local officials flexibility in policy implementation, it can also instill fear of punishment among possible transgressors and encourage preemptive self-censoring. Incorporating both perspectives, I develop a formal model that analyzes a situation in which ambiguity allows flexibility for certain types of local officials while intimidating others. I argue that central leaders use ambiguity as a screening tool to encourage only "competent" local officials---or those who have policy expertise for producing good outcomes---to choose a gray-area policy at their own risk, while deterring "incompetent" officials from doing so. I illustrate the model with the case of state-owned enterprise restructuring in China. The argument is broadly applicable to interactions between any upper- and lower-level actors in bureaucratic hierarchy.
-
-* Link to publication [here](https://www.nowpublishers.com/article/Details/PIP-0046) 
-* Draft version [here](https://www.dropbox.com/s/lcwhraqf62o6dy3/JPIPE%202021%20%28draft%29.pdf?dl=0)
-* Paper presented at [2021 APSA Formal Theory Virtual Workshop](http://formaltheorysociety.com/virtual-workshop/), [2018 New Faces in China Studies Conference](https://polisci.duke.edu/news/new-faces-china-studies-conference), 2019 MPSA Annual Meeting, and the [2019 EITM Summer Institute](http://eitm.emory.edu/index.html).  
-
-</details>
+</div>
 <br/>
 
-<details>
-<summary> **2. Jieun Kim, Rachel Stern, Benjamin Liebman and Xiaohan Wu. Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath** </span> <br/>
-  *Comparative Political Studies* (2022) 55(2): 319-347. <br/>
+<strong>2. Closing Open Government: Grassroots Policy Conversion of China’s Open Government Information Regulation and Its Aftermath</strong> <br/>
+* with Rachel Stern, Benjamin Liebman and Xiaohan Wu <br/>
+* <em>Comparative Political Studies</em> (2022) 55(2): 319-347. <br/>
+<a class="btn btn-outline-primary" href="https://journals.sagepub.com/doi/full/10.1177/00104140211024314" target="_blank">Website</a>
+<a class="btn btn-outline-primary" href="https://www.dropbox.com/s/4359m94ivk3fgwz/CPS%202021%20%28draft%29.pdf?dl=0" target="_blank">PDF</a>
+<a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstract2')">Abstract</a>
   
-</summary>
-
+<!-- Abstract 내용 (처음에는 숨김 상태) -->
+<div id="abstract2" style="display: none; margin-top: 10px;">
 How and when do opportunities for political participation through courts change under authoritarianism? Although China is better known for tight political control than for political expression, the 2008 Open Government Information (OGI) regulation ushered in a surge of political-legal activism. We draw on an original dataset of 57,095 OGI lawsuits, supplemented by interview data and government documents, to show how a feedback loop between judges and court users shaped possibilities for political activism and complaint between 2008 and 2019. In contrast to the conventional explanation that authoritarian leaders crack down on legal action when they feel politically threatened, we find that courts minted, defined and popularized new legal labels to cut off access to justice for the minority of super-active litigants whose lawsuits had come to dominate the OGI docket. This study underscores the power of procedural rules and frontline judges in shaping possibilities for political participation under authoritarianism.
-
-* Link to publication [here](https://journals.sagepub.com/doi/full/10.1177/00104140211024314)
-* Draft version [here](https://www.dropbox.com/s/4359m94ivk3fgwz/CPS%202021%20%28draft%29.pdf?dl=0)
-
-</details>
+</div>
 <br/>
 
-<details>
-<summary> **1. Jieun Kim and Kevin O'Brien. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
-*Asian Survey* (2021) 61(4): 591–614. <br/>
+<strong>1. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy</strong> <br/>
+* with Kevin O'Brien <br/>
+* <em>Asian Survey</em> (2021) 61(4): 591–614. <br/>
+<a class="btn btn-outline-primary" href="https://online.ucpress.edu/as/article-abstract/61/4/591/118261/Understanding-Experimentation-and-ImplementationA?redirectedFrom=fulltext" target="_blank">Website</a>
+<a class="btn btn-outline-primary" href="https://www.dropbox.com/s/w9u9y7l2tu6bbgr/AS%202021.pdf?dl=0" target="_blank">PDF</a>
+<a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstract2')">Abstract</a>
   
-</summary>
-
+<!-- Abstract 내용 (처음에는 숨김 상태) -->
+<div id="abstract2" style="display: none; margin-top: 10px;">
 Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfolded in one policy area. The history of China’s Open Government Information (OGI) initiative shows that the experimentation stage sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And the implementation stage often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that the experimentation and implementation stages are not so different when officials in Beijing and the localities have diverging interests and the Center is more supportive of a measure than local officials. The ups and downs of OGI, and also village elections, can be traced to the policy goal of monitoring local cadres, the central-local divide, and the pattern of support and opposition within the state.
-
-* Link to publication [here](https://online.ucpress.edu/as/article-abstract/61/4/591/118261/Understanding-Experimentation-and-ImplementationA?redirectedFrom=fulltext)
-* Paper available [here](https://www.dropbox.com/s/w9u9y7l2tu6bbgr/AS%202021.pdf?dl=0)
-
-</details>
+</div>
 <br/>
-
-
-
 
 
 <details>
