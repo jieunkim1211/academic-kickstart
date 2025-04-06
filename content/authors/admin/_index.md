@@ -6,8 +6,6 @@ name: Jieun Kim
 authors:
 - admin
 
-avatar: img/Kim2.png
-
 # Is this the primary user of the site?
 superuser: true
 
