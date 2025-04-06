@@ -76,6 +76,8 @@ details summary::-webkit-details-marker {
 <details>
 <summary> **4. Rachel Stern, Jieun Kim and Benjamin Liebman. Performing Legality: When and Why Chinese Government Leaders Show Up in Court** </span> <br/>
 Online First at *Journal of Chinese Political Science*. 2024. <br/>
+<a class="btn btn-outline-primary" href="https://xxx" target="_blank">Website</a>
+<a class="btn btn-outline-primary" href="https://dropbox.com/your-draft.pdf" target="_blank">pdf</a>
   
 </summary>
 
