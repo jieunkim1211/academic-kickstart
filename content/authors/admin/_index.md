@@ -69,8 +69,8 @@ social:
 #- Visitors
 ---
 
-Welcome! I am an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My works have been published in Asian Survey, Comparative Political Studies and Journal of Political Institutions and Political Economy.
+Welcome! I am an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My works have been published in *Comparative Political Studies* and *Journal of Chinese Political Science*, among others.
 
-I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the [Center for the Study of Contemporary China at the University of Pennsylvania](https://cscc.sas.upenn.edu).
+I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu).
 
 Please find my CV [here](https://www.dropbox.com/scl/fi/0k8mexnqoi38guxzi373r/Kim.Jieun_CV.pdf?rlkey=qcp8jxvlw39ndyocl1hot0vay&st=rsxod1f6&dl=0). You can reach me at kimjieun@nyu.edu.
