@@ -85,11 +85,8 @@ Since 2015, Chinese government leaders have been required by law to appear in co
 
 * Link to publication [here](https://link.springer.com/article/10.1007/s11366-024-09901-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241128&utm_content=10.1007%2Fs11366-024-09901-6)
 * Paper presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series 
-
-
 </details>
 <br/>
-
 
 <details>
 <summary> **3. Jieun Kim. At Your Own Risk: A Model of Delegation with Ambiguous Guidelines** </span> <br/>
@@ -119,8 +116,6 @@ How and when do opportunities for political participation through courts change 
 
 </details>
 <br/>
-
-
 
 <details>
 <summary> **1. Jieun Kim and Kevin O'Brien. Understanding Experimentation and Implementation: A Case Study of China’s Government Transparency Policy** </span> <br/>
