@@ -23,7 +23,7 @@ bio: I am an Assitant Professor of Political Science at NYU Shanghai.
 interests:
 - China, authoritarianism
 - Accountability, transparency, legality
-- Language policies  
+- Politics of language   
 - Formal modeling; computational text analysis
 
 education:
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kimjieun@sas.upenn.edu
+  link: mailto:kimjieun@nyu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jieunkim1211
