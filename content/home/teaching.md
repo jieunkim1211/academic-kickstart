@@ -69,15 +69,15 @@ subtitle = ""
 
 **NYU Shanghai**
 
-&nbsp; &nbsp; SOCS-SHU 150: Introduction to Comparative Politics (undergraduate; Fall 2022, Fall 2023) <br/>
-&nbsp; &nbsp; SOCS-SHU 331: Politics of China (undergraduate; Spring 2023, Spring 2024) <br/>
-&nbsp; &nbsp; SOCS-SHU 402: Social Science Capstone Seminar (undergraduate; Spring 2024) <br/> 
+&nbsp; &nbsp; SOCS-SHU 150: Introduction to Comparative Politics  <br/>
+&nbsp; &nbsp; SOCS-SHU 331: Politics of China  <br/>
+&nbsp; &nbsp; SOCS-SHU 402: Social Science Capstone Seminar  <br/> 
 
 <br/>
 
 **UC Berkeley** <br/>
 
-&nbsp; &nbsp; PS 3: Introduction to Empirical Analysis and Quantitative Methods (undergraduate; Fall 2017) <br/>
-&nbsp; &nbsp; PS 232A: Formal Models of Political Science (graduate; Spring 2020, Spring 2021) <br/> 
+&nbsp; &nbsp; PS 3: Introduction to Empirical Analysis and Quantitative Methods <br/>
+&nbsp; &nbsp; PS 232A: Formal Models of Political Science (graduate) <br/> 
 
 
