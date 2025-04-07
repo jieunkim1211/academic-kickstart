@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Work in Progress"
+title = "Works in Progress"
 subtitle = ""
 
 [content]
@@ -66,13 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
-China's Blacklists (with Peter Lorentzen) <br/><br/>
-
-A Formal Model of Autocratic Accommodation (with Tak-Huen Chau, Kevin O'Brien) <br/><br/>
-
-Linguistic Diversity and Communal Violence during China's Cultural Revoltuion (with Yu Zeng) <br/><br/>
-
-
+China's Blacklists (with Peter Lorentzen) <br/>
+A Formal Model of Autocratic Accommodation (with Tak-Huen Chau, Kevin O'Brien) <br/>
+Linguistic Diversity and Communal Violence during China's Cultural Revoltuion (with Yu Zeng) <br/>
+AI Speech Recognition and Selective Digital Citizenship in China <br/>
+Central Language Dominance v. Regional Language Retention <br/>
+Language and Political Attitudes under Authoritarianism: Experimental Evidence from China <br/>
 
 
 
