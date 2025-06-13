@@ -142,7 +142,7 @@ In autocracies, courts are often perceived as tools of the autocrats, with lawye
 <br/>
 
 <strong>Standard Language, Propaganda, and Government Satisfaction under Authoritarianism</strong> <br/>
-&bull; Under Review. <br/>
+&bull; Revise and Resubmit at <em>British Journal of Political Science</em>. <br/>
 &bull; Presented at 2023, 2024 APSA Annual Meeting ('24 China mini-conference), Nanjing University <br/>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractPTH')">Abstract</a>
   
