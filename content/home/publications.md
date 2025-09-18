@@ -79,11 +79,11 @@ details summary::-webkit-details-marker {
 &bull; Forthcoming in <em>World Politics</em> (scheduled for Vol. 78, no. 3, July 2026). <br/>
 &bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association) Annual Meeting, and other workshops by coauthor <br/>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0" target="_blank">Draft</a>
-<a class="btn btn-outline-primary" href="[https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0](https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=gtqk3avk&dl=0)" target="_blank">Appendix</a>
+<a class="btn btn-outline-primary" href="[https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0](https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=mircx2un&dl=0)" target="_blank">Appendix</a>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractWP')">Abstract</a>
 
 <!-- Abstract 내용 (처음에는 숨김 상태) -->
-<div id="abstract3" style="display: none; margin-top: 10px;">
+<div id="abstract5" style="display: none; margin-top: 10px;">
 In autocracies, courts are often perceived as tools of the autocrats, with lawyers viewed as lacking influence. We reassess these assumptions by examining criminal defense lawyers as “rightful challengers” within China’s legal system. Analyzing an original dataset of drug cases in Chinese criminal courts from 2014 to 2018, we find that, when a lawyer is present, judges are three times more likely to reject prosecutors’ arguments and twice as likely to deviate from prosecutors’ sentencing recommendations. The deviation, on average, results in sentences that are over two additional months shorter. These findings suggest that lawyers can exert a substantial impact on judicial decisions by encouraging judge-prosecutor disagreement, particularly in less politically sensitive cases. Close examinations of lawyers’ arguments and original interviews reveal that the quality of defense is crucial for understanding lawyers’ effectiveness in influencing court decisions. These results highlight how seemingly powerless societal actors, like lawyers, can act as rightful challengers to powerful state actors within authoritarian regimes.
 </div>
 <br/>
