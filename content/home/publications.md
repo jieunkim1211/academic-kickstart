@@ -76,7 +76,7 @@ details summary::-webkit-details-marker {
 
 <strong>5. Rightful Challengers: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement</strong> <br/>
 &bull; with Yue Hou <br/>
-&bull; Forthcoming in <em>World Politics</em> (planned for Vol. 78, no. 3, July 2026). <br/>
+&bull; Forthcoming in <em>World Politics</em> (scheduled for Vol. 78, no. 3, July 2026). <br/>
 &bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association) Annual Meeting, and other workshops by coauthor <br/>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0" target="_blank">Draft</a>
 <a class="btn btn-outline-primary" href="[https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0](https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=gtqk3avk&dl=0)" target="_blank">Appendix</a>
