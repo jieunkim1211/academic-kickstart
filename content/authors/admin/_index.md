@@ -69,7 +69,7 @@ social:
 #- Visitors
 ---
 
-Welcome! I am an Assistant Professor in the Department of Political Science and International Relations at Seoul National University. My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My work has been published or is forthcoming in *Comparative Political Studies*, *Journal of Chinese Political Science*, and *World Politics*, among others.
+Welcome! I am an Assistant Professor in the Department of Political Science and International Relations at [Seoul National University](https://psir.snu.ac.kr). My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My work has been published or is forthcoming in *Comparative Political Studies*, *Journal of Chinese Political Science*, and *World Politics*, among others.
 
 I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining Seoul National University, I was an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu) and a Postdoctoral Fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu).
 
