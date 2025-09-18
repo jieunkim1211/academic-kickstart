@@ -66,6 +66,10 @@ subtitle = ""
  css_class = ""
 +++
 
+**Seoul National University**
+
+&nbsp; &nbsp; 216B.715 China in World Politics (graduate) <br/>
+
 
 **NYU Shanghai**
 
