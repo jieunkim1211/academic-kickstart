@@ -69,8 +69,8 @@ social:
 #- Visitors
 ---
 
-Welcome! I am an Assistant Professor in the Department of Political Science and International Relations at Seoul National University (SNU). My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My works have been published or are forthcoming in *Comparative Political Studies*, *Journal of Chinese Political Science*, *World Politics*, among others.
+Welcome! I am an Assistant Professor in the Department of Political Science and International Relations at Seoul National University. My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My works have been published or are forthcoming in *Comparative Political Studies*, *Journal of Chinese Political Science*, *World Politics*, among others.
 
-I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining SNU, I was an assistant professor of political science at [NYU Shanghai](https://shanghai.nyu.edu) and a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu).
+I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining Seoul National University, I was an assistant professor of political science at [NYU Shanghai](https://shanghai.nyu.edu) and a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu).
 
 Please find my CV [here](https://www.dropbox.com/scl/fi/0k8mexnqoi38guxzi373r/Kim.Jieun_CV.pdf?rlkey=qcp8jxvlw39ndyocl1hot0vay&st=rsxod1f6&dl=0). You can reach me at kim.jieun@snu.ac.kr.
