@@ -70,6 +70,7 @@ subtitle = ""
 
 &nbsp; &nbsp; 216B.715: China in World Politics (graduate) <br/>
 
+<br/>
 
 **NYU Shanghai**
 
