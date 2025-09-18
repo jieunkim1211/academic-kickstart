@@ -74,6 +74,25 @@ details summary::-webkit-details-marker {
 </style>
 
 
+<strong>5. Rightful Challengers: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement</strong> <br/>
+&bull; with Yue Hou <br/>
+&bull; Forthcoming in <em>World Politics</em> (planned for Vol. 78, no. 3, July 2026). <br/>
+&bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association) Annual Meeting, and other workshops by coauthor <br/>
+<a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0" target="_blank">Draft</a>
+<a class="btn btn-outline-primary" href="[https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0](https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=gtqk3avk&dl=0)" target="_blank">Appendix</a>
+<a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractWP')">Abstract</a>
+
+<!-- Abstract 내용 (처음에는 숨김 상태) -->
+<div id="abstract3" style="display: none; margin-top: 10px;">
+In autocracies, courts are often perceived as tools of the autocrats, with lawyers viewed as lacking influence. We reassess these assumptions by examining criminal defense lawyers as “rightful challengers” within China’s legal system. Analyzing an original dataset of drug cases in Chinese criminal courts from 2014 to 2018, we find that, when a lawyer is present, judges are three times more likely to reject prosecutors’ arguments and twice as likely to deviate from prosecutors’ sentencing recommendations. The deviation, on average, results in sentences that are over two additional months shorter. These findings suggest that lawyers can exert a substantial impact on judicial decisions by encouraging judge-prosecutor disagreement, particularly in less politically sensitive cases. Close examinations of lawyers’ arguments and original interviews reveal that the quality of defense is crucial for understanding lawyers’ effectiveness in influencing court decisions. These results highlight how seemingly powerless societal actors, like lawyers, can act as rightful challengers to powerful state actors within authoritarian regimes.
+</div>
+<br/>
+
+
+
+
+
+
 <strong>4. Performing Legality: When and Why Chinese Government Leaders Show Up in Court</strong> <br/>
 with Rachel Stern and Benjamin Liebman <br/>
 &bull; Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
@@ -124,20 +143,6 @@ How and when do opportunities for political participation through courts change 
 <!-- Abstract 내용 (처음에는 숨김 상태) -->
 <div id="abstract1" style="display: none; margin-top: 10px;">
 Studies of local governance in China often point to nimble experimentation but problematic implementation. To reconcile these competing images, it is useful to clarify the concepts of experimentation and implementation and see how they unfolded in one policy area. The history of China’s Open Government Information (OGI) initiative shows that the experimentation stage sometimes proceeds well and produces new policy options, but may falter if local leaders are unwilling to carry out an experiment. And the implementation stage often poses challenges, but may improve if the Center initiates new, small-scale experiments and encourages local innovation. This suggests that the experimentation and implementation stages are not so different when officials in Beijing and the localities have diverging interests and the Center is more supportive of a measure than local officials. The ups and downs of OGI, and also village elections, can be traced to the policy goal of monitoring local cadres, the central-local divide, and the pattern of support and opposition within the state.
-</div>
-<br/>
-
-<strong>Rightful Challengers: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement</strong> <br/>
-&bull; with Yue Hou <br/>
-&bull; Revise and Resubmit at <em>World Politics</em>. <br/>
-&bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association) Annual Meeting, and other workshops by coauthor <br/>
-<a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0" target="_blank">Draft</a>
-<a class="btn btn-outline-primary" href="[https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0](https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=gtqk3avk&dl=0)" target="_blank">Appendix</a>
-<a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractWP')">Abstract</a>
-  
-<!-- Abstract 내용 (처음에는 숨김 상태) -->
-<div id="abstractWP" style="display: none; margin-top: 10px;">
-In autocracies, courts are often perceived as tools of the autocrats, with lawyers viewed as lacking influence. We reassess these assumptions by examining criminal defense lawyers as “rightful challengers” within China’s legal system. Analyzing an original dataset of drug cases in Chinese criminal courts from 2014 to 2018, we find that, when a lawyer is present, judges are three times more likely to reject prosecutors’ arguments and twice as likely to deviate from prosecutors’ sentencing recommendations. The deviation, on average, results in sentences that are over two additional months shorter. These findings suggest that lawyers can exert a substantial impact on judicial decisions by encouraging judge-prosecutor disagreement, particularly in less politically sensitive cases. Close examinations of lawyers’ arguments and original interviews reveal that the quality of defense is crucial for understanding lawyers’ effectiveness in influencing court decisions. These results highlight how seemingly powerless societal actors, like lawyers, can act as rightful challengers to powerful state actors within authoritarian regimes.
 </div>
 <br/>
 
