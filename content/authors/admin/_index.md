@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Political Science
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: NYU Shanghai
+- name: Seoul National University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assitant Professor of Political Science at NYU Shanghai.
+bio: I am an Assistant Professor in the Department of Political Science and International Relations at Seoul National University.  
 
 interests:
 - China, authoritarianism
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kimjieun@nyu.edu
+  link: mailto:kim.jieun@snu.ac.kr
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jieunkim1211
@@ -69,8 +69,8 @@ social:
 #- Visitors
 ---
 
-Welcome! I am an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu). My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My works have been published in *Comparative Political Studies* and *Journal of Chinese Political Science*, among others.
+Welcome! I am an Assistant Professor in the Department of Political Science and International Relations at Seoul National University (SNU). My research is in comparative politics, particularly on 1) authoritarian institutions and 2) language standardization, with a regional focus on China. My works have been published or is forthcoming in *Comparative Political Studies*, *Journal of Chinese Political Science*, *World Politics*, among others.
 
-I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining NYU Shanghai, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu).
+I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining SNU, I was an assistant professor of political science at [NYU Shanghai](https://shanghai.nyu.edu) and a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu).
 
-Please find my CV [here](https://www.dropbox.com/scl/fi/0k8mexnqoi38guxzi373r/Kim.Jieun_CV.pdf?rlkey=qcp8jxvlw39ndyocl1hot0vay&st=rsxod1f6&dl=0). You can reach me at kimjieun@nyu.edu.
+Please find my CV [here](https://www.dropbox.com/scl/fi/0k8mexnqoi38guxzi373r/Kim.Jieun_CV.pdf?rlkey=qcp8jxvlw39ndyocl1hot0vay&st=rsxod1f6&dl=0). You can reach me at kim.jieun@snu.ac.kr.
