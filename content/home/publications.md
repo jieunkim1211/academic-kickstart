@@ -94,7 +94,7 @@ In autocracies, courts are often perceived as tools of the autocrats, with lawye
 
 
 <strong>4. Performing Legality: When and Why Chinese Government Leaders Show Up in Court</strong> <br/>
-with Rachel Stern and Benjamin Liebman <br/>
+&bull; with Rachel Stern and Benjamin Liebman <br/>
 &bull; Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
 &bull; Presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series<br/>
 <a class="btn btn-outline-primary" href="https://link.springer.com/article/10.1007/s11366-024-09901-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241128&utm_content=10.1007%2Fs11366-024-09901-6" target="_blank">Website</a>
