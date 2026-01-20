@@ -73,4 +73,4 @@ Welcome! I am an Assistant Professor in the Department of Political Science and 
 
 I received my PhD in Political Science from UC Berkeley in 2021. Prior to joining Seoul National University, I was an Assistant Professor of Political Science at [NYU Shanghai](https://shanghai.nyu.edu) and a Postdoctoral Fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu).
 
-Please find my CV [here](https://www.dropbox.com/scl/fi/0k8mexnqoi38guxzi373r/Kim.Jieun_CV.pdf?rlkey=qcp8jxvlw39ndyocl1hot0vay&st=rsxod1f6&dl=0). You can reach me at kim.jieun@snu.ac.kr.
+Please find my CV [here](https://www.dropbox.com/scl/fi/j6npxngxvwe5yznwhwr29/Kim.Jieun_CV.pdf?rlkey=v5ro2zlrn4jju43w2omwmu0qe&st=gimv010q&dl=0). You can reach me at kim.jieun@snu.ac.kr.
