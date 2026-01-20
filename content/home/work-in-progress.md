@@ -66,9 +66,10 @@ subtitle = ""
  css_class = ""
 +++
 
+Linguistic Diversity and Inter-Group Violence (with Yu Zeng) <br/>
+The State-Led Speech Recognition Technology in China <br/>
 China's Blacklists (with Peter Lorentzen) <br/>
 A Formal Model of Autocratic Accommodation (with Tak-Huen Chau, Kevin O'Brien) <br/>
-Linguistic Diversity and Violence during China's Cultural Revoltuion (with Yu Zeng) <br/>
 Language and Political Attitudes under Authoritarianism: Experimental Evidence from China <br/>
 
 
