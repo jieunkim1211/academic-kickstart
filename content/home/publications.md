@@ -74,6 +74,19 @@ details summary::-webkit-details-marker {
 </style>
 
 
+<strong>6. Standard Language, Propaganda, and Government Satisfaction under Authoritarianism</strong> <br/>
+&bull; Accepted at <em>British Journal of Political Science</em>. <br/>
+&bull; Presented at 2023, 2024 APSA Annual Meeting ('24 China mini-conference), Nanjing University <br/>
+<a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractPTH')">Abstract</a>
+  
+<!-- Abstract 내용 (처음에는 숨김 상태) -->
+<div id="abstractPTH" style="display: none; margin-top: 10px;">
+Beyond its role in nation- and state-building, I argue that standard language promotion enables autocrats to increase citizens' satisfaction with the government by expanding the reach of propaganda. Drawing on large-scale surveys supplemented by original interviews, I test this argument in China, which has successfully promoted a common language, *putonghua*, in recent decades. By leveraging cross-cohort, cross-locality variations in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases government satisfaction. Individual-level evidence highlights a potential mechanism: increased consumption of television political news, a key channel for state propaganda delivered exclusively in putonghua. This study has implications for state-society communications and authoritarian control.  
+</div>
+<br/>
+
+
+
 <strong>5. Rightful Challengers: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement</strong> <br/>
 &bull; with Yue Hou <br/>
 &bull; Forthcoming in <em>World Politics</em> (scheduled for Vol. 78, no. 3, July 2026). <br/>
@@ -87,9 +100,6 @@ details summary::-webkit-details-marker {
 In autocracies, courts are often perceived as tools of the autocrats, with lawyers viewed as lacking influence. We reassess these assumptions by examining criminal defense lawyers as “rightful challengers” within China’s legal system. Analyzing an original dataset of drug cases in Chinese criminal courts from 2014 to 2018, we find that, when a lawyer is present, judges are three times more likely to reject prosecutors’ arguments and twice as likely to deviate from prosecutors’ sentencing recommendations. The deviation, on average, results in sentences that are over two additional months shorter. These findings suggest that lawyers can exert a substantial impact on judicial decisions by encouraging judge-prosecutor disagreement, particularly in less politically sensitive cases. Close examinations of lawyers’ arguments and original interviews reveal that the quality of defense is crucial for understanding lawyers’ effectiveness in influencing court decisions. These results highlight how seemingly powerless societal actors, like lawyers, can act as rightful challengers to powerful state actors within authoritarian regimes.
 </div>
 <br/>
-
-
-
 
 
 
@@ -146,16 +156,6 @@ Studies of local governance in China often point to nimble experimentation but p
 </div>
 <br/>
 
-<strong>Standard Language, Propaganda, and Government Satisfaction under Authoritarianism</strong> <br/>
-&bull; Revise and Resubmit at <em>British Journal of Political Science</em>. <br/>
-&bull; Presented at 2023, 2024 APSA Annual Meeting ('24 China mini-conference), Nanjing University <br/>
-<a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractPTH')">Abstract</a>
-  
-<!-- Abstract 내용 (처음에는 숨김 상태) -->
-<div id="abstractPTH" style="display: none; margin-top: 10px;">
-Beyond its role in nation- and state-building, I argue that standard language promotion enables autocrats to increase citizens' satisfaction with the government by expanding the reach of propaganda. Drawing on large-scale surveys supplemented by original interviews, I test this argument in China, which has successfully promoted a common language, *putonghua*, in recent decades. By leveraging cross-cohort, cross-locality variations in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases government satisfaction. Individual-level evidence highlights a potential mechanism: increased consumption of television political news, a key channel for state propaganda delivered exclusively in putonghua. This study has implications for state-society communications and authoritarian control.  
-</div>
-<br/>
 
 
 
