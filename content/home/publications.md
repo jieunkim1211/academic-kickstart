@@ -93,6 +93,7 @@ Beyond its role in nation and state building, I argue that standard language pro
 &bull; with Yue Hou <br/>
 &bull; <em>World Politics</em> (2026) 76(2): 377-418. <br/>
 &bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association) Annual Meeting, and other workshops by coauthor <br/>
+<a class="btn btn-outline-primary" href="https://doi.org/10.1353/wp.2026.a987807" target="_blank">Website</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0" target="_blank">Draft</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=mircx2un&dl=0" target="_blank">Appendix</a>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstract5')">Abstract</a>
@@ -107,7 +108,7 @@ In autocracies, courts are often perceived as tools of the autocrats, with lawye
 
 <strong>4. Performing Legality: When and Why Chinese Government Leaders Show Up in Court</strong> <br/>
 &bull; with Rachel Stern and Benjamin Liebman <br/>
-&bull; <em>Journal of Chinese Political Science</em> (2026) 31: 115-133 (Online: Nov 2024). <br/>
+&bull; <em>Journal of Chinese Political Science</em> (2024) 31: 115-133 (Online: Nov 2024). <br/>
 &bull; Presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series<br/>
 <a class="btn btn-outline-primary" href="https://link.springer.com/article/10.1007/s11366-024-09901-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241128&utm_content=10.1007%2Fs11366-024-09901-6" target="_blank">Website</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/rsedm6k42ztgssulxmrgn/4.JCPS-2024.pdf?rlkey=tf7c4ugnlq3de2pdjgfd2ey9b&st=c1nnkugc&dl=0" target="_blank">PDF</a>
