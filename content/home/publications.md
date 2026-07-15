@@ -75,13 +75,15 @@ details summary::-webkit-details-marker {
 
 
 <strong>6. Standard Language, Propaganda, and Government Satisfaction under Authoritarianism</strong> <br/>
-&bull; Accepted at <em>British Journal of Political Science</em>. <br/>
+&bull; <em>British Journal of Political Science</em> (2026) 56(e24): 1-22. <br/>
 &bull; Presented at 2023, 2024 APSA Annual Meeting ('24 China mini-conference), Nanjing University <br/>
+<a class="btn btn-outline-primary" href="https://doi.org/10.1017/S000712342610146X" target="_blank">Website</a>
+<a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/geqayky0lntdjlqtda7bs/6.Kim_putonghua_bjps2026.pdf?rlkey=njfrtgtfd3b65s99j6azb1iz2&st=ofxyfrcv&dl=0" target="_blank">PDF</a>
 <a class="btn btn-outline-primary" href="javascript:void(0);" onclick="toggleAbstract('abstractPTH')">Abstract</a>
   
 <!-- Abstract 내용 (처음에는 숨김 상태) -->
 <div id="abstractPTH" style="display: none; margin-top: 10px;">
-Beyond its role in nation- and state-building, I argue that standard language promotion enables autocrats to increase citizens' satisfaction with the government by expanding the reach of propaganda. Drawing on large-scale surveys supplemented by original interviews, I test this argument in China, which has successfully promoted a common language, *putonghua*, in recent decades. By leveraging cross-cohort, cross-locality variations in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases government satisfaction. Individual-level evidence highlights a potential mechanism: increased consumption of television political news, a key channel for state propaganda delivered exclusively in putonghua. This study has implications for state-society communications and authoritarian control.  
+Beyond its role in nation and state building, I argue that standard language promotion enables autocrats to increase citizens’ satisfaction with the government by expanding the reach of propaganda. Drawing on large-scale surveys supplemented by original interviews, I test this argument in China, which has successfully promoted a common language, putonghua, in recent decades. By leveraging cross-cohort, cross-locality variations in exposure to putonghua at school following a major language reform in 2001, I find that greater exposure to putonghua increases government satisfaction. Individual-level evidence highlights a potential mechanism: increased consumption of television political news, a key channel for state propaganda delivered exclusively in putonghua. This study has implications for state–society communications and authoritarian control.
 </div>
 <br/>
 
@@ -89,7 +91,7 @@ Beyond its role in nation- and state-building, I argue that standard language pr
 
 <strong>5. Rightful Challengers: How Chinese Criminal Defense Lawyers Encourage Judge-Prosecutor Disagreement</strong> <br/>
 &bull; with Yue Hou <br/>
-&bull; Forthcoming in <em>World Politics</em> (scheduled for Vol. 78, no. 3, July 2026). <br/>
+&bull; <em>World Politics</em> (2026) 76(2): 377-418. <br/>
 &bull; Presented at 2023 APSA Annual Meeting, 2023 ALSA (Asian Law and Society Association) Annual Meeting, and other workshops by coauthor <br/>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/yowjlqiwypyogtpu5qtpj/lawyer_dec2024_web.pdf?rlkey=cgemhesesejuxgfkhvjz654s4&st=kqr90k96&dl=0" target="_blank">Draft</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/trbaxcan4dk1curylgr2i/lawyer_dec2024appendix_web.pdf?rlkey=25mec9pugso3whlmdu72eczry&st=mircx2un&dl=0" target="_blank">Appendix</a>
@@ -105,7 +107,7 @@ In autocracies, courts are often perceived as tools of the autocrats, with lawye
 
 <strong>4. Performing Legality: When and Why Chinese Government Leaders Show Up in Court</strong> <br/>
 &bull; with Rachel Stern and Benjamin Liebman <br/>
-&bull; Online First at <em>Journal of Chinese Political Science</em>. 2024. <br/>
+&bull; <em>Journal of Chinese Political Science</em> (2026) 31: 115-133 (Online: Nov 2024). <br/>
 &bull; Presented at 2022 WPSA Autocratic Politics Mini-Conference, UPenn CSCC Speaker Series<br/>
 <a class="btn btn-outline-primary" href="https://link.springer.com/article/10.1007/s11366-024-09901-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241128&utm_content=10.1007%2Fs11366-024-09901-6" target="_blank">Website</a>
 <a class="btn btn-outline-primary" href="https://www.dropbox.com/scl/fi/rsedm6k42ztgssulxmrgn/4.JCPS-2024.pdf?rlkey=tf7c4ugnlq3de2pdjgfd2ey9b&st=c1nnkugc&dl=0" target="_blank">PDF</a>
