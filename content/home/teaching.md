@@ -69,6 +69,7 @@ subtitle = ""
 **Seoul National University**
 
 &nbsp; &nbsp; 216B.715: China in World Politics (graduate) <br/>
+&nbsp; &nbsp; 216A.308: Chinese Politics <br/>
 
 <br/>
 
